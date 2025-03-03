@@ -29,7 +29,11 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo --minify
+          ls -la ./public
+          echo "Content of public directory:"
+          find ./public -type f
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
