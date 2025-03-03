@@ -1,0 +1,4 @@
+baseURL = 'https://henry921630.github.io/foxandursa-blog/'
+languageCode = 'zh-tw'
+title = '我的網站'
+theme = 'PaperMod'
