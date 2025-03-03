@@ -18,7 +18,7 @@ jobs:
   build:
     runs-on: Ubuntu-22.04
     steps:
-      - uses: actions checkout@v3
+      - uses: actions/checkout@v3
         with:
           submodules: true
       - name: Setup Hugo
@@ -33,7 +33,7 @@ jobs:
           echo "Content of public directory:"
           find ./public -type f
       - name: Upload artifact
-        uses: actions upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
@@ -46,4 +46,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions deploy-pages@v3
+        uses: actions/deploy-pages@v3
