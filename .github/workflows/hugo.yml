@@ -16,43 +16,34 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions checkout@v3
         with:
           submodules: true
-      
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
-
       - name: Build
         run: |
           hugo --minify
           ls -la ./public
           echo "Content of public directory:"
           find ./public -type f
-
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions upload-pages-artifact@v1
         with:
           path: ./public
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: Ubuntu-22.04
     needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
-        with:
-          artifact_name: github-pages
+        uses: actions deploy-pages@v3
