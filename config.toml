@@ -19,12 +19,8 @@ theme = 'PaperMod'
 
   # 社群圖示
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/yourusername"
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/yourusername"
-    
+    name = "facebook"
+    url = "https://www.facebook.com/FoxandUrsa"
   # 顯示文章摘要
   showSummary = true
   
