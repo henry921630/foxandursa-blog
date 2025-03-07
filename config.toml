@@ -5,7 +5,7 @@ theme = 'PaperMod'
 
 # 使用新的分頁配置
 [pagination]
-  pagerSize = 10
+  pagerSize = 50
 
 [params]
   # 首頁配置
@@ -42,3 +42,28 @@ theme = 'PaperMod'
   # 首頁模式: "home", "posts" 或 "custom"
   homeLayout = "home"  # 使用帶有個人資料的首頁
   # homeLayout = "posts"  # 直接顯示文章列表
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "categories"
+    name = "分類"
+    url = "/categories/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "tags"
+    name = "標籤"
+    url = "/tags/"
+    weight = 30
+    
+  [[menu.main]]
+    identifier = "subscribe"
+    name = "訂閱電子報"
+    url = "/p/email.html"
+    weight = 40
