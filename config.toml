@@ -2,7 +2,10 @@ baseURL = 'https://henry921630.github.io/foxandursa-blog/'
 languageCode = 'zh-tw'
 title = '小狐熊週記'
 theme = 'PaperMod'
-paginate = 10
+
+# 使用新的分頁配置
+[pagination]
+  pagerSize = 10
 
 [params]
   # 首頁配置
