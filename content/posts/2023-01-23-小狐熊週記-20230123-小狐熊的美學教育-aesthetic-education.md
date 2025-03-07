@@ -7,7 +7,7 @@ url: "/2023/01/20230123-aesthetic-education.html"
 
 小狐熊經常穿著怪異的服裝上學、不但上半身下半身風格迥異，兩腳可能還穿著不同款的襪子。連我一個毫無美學品味的人都看得出來，這很奇怪。
 但容我自言，我是非常注重美學教育的。……只是不在服裝儀容層面而已。
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHzoMRG4eiinpcCqKtaIg8ud-0p9HWroNMcFn7Cc64BEnsbuJM3Fx9m6R4h7fd-0hDGzHKi6jYaPlp4efbgBIX11Qg2K6fR2sn_FDxhGFAaCHkMZXcq9k349wW-X4fYT1rtR9faiHH-O1Y7Kj0OqGJ6XWya3C_VW24AmTLliFz6_VmqL6-9n8wFLb/s320/1674373454562.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHzoMRG4eiinpcCqKtaIg8ud-0p9HWroNMcFn7Cc64BEnsbuJM3Fx9m6R4h7fd-0hDGzHKi6jYaPlp4efbgBIX11Qg2K6fR2sn_FDxhGFAaCHkMZXcq9k349wW-X4fYT1rtR9faiHH-O1Y7Kj0OqGJ6XWya3C_VW24AmTLliFz6_VmqL6-9n8wFLb/s320/1674373454562.jpg)
 --
 前陣子 AI ChatGPT 大紅之際，許多人紛紛戰兢自己工作即將被 AI 取代。也引發了部份學科一陣反思：「我這麼努力學這個要幹嘛？反正問 AI 就好了啊」
 我個人的感觸是：等到 AI 什麼都會的時候，我們就終於不再需要為「實用」而學習了！我們終於可以為了純粹的「美感」與「樂趣」而學習了。
@@ -42,6 +42,6 @@ ChatGPT:這篇文章講述了作者對於美學教育的看法。他認為等到
 我：請幫上面的文章取五個更吸引人的標題
 ChatGPT:"AI 讓我們重新認識美學教育""當 AI 成為我們的助手，美學教育才能無拘無束""美學教育的新時代：AI 的到來""AI 的普及，為美學教育帶來更多可能""美學教育不再受「實用」束縛，感受 AI 帶來的美"
 
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEh8ghfin8PQnaRn5oN_MnOshkwQwsdMc5V37hlCrGYoS918ZjxULYtmh0fSZtfv9nRrF4pbfdPa0IxZVhDmR5wGJ4j3dUrkDfbyoEtA85WkAAhCECQqQ82ExMzb28F8IAXM8m_aAUVwC14K12crQ7A4boul3NI3uWGkyFbkPpxyCoUmXIrUUp7D1qf7)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEh8ghfin8PQnaRn5oN_MnOshkwQwsdMc5V37hlCrGYoS918ZjxULYtmh0fSZtfv9nRrF4pbfdPa0IxZVhDmR5wGJ4j3dUrkDfbyoEtA85WkAAhCECQqQ82ExMzb28F8IAXM8m_aAUVwC14K12crQ7A4boul3NI3uWGkyFbkPpxyCoUmXIrUUp7D1qf7)
 
 

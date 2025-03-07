@@ -8,7 +8,7 @@ url: "/2023/09/20230925-i-found-great-way-for-parents.html"
 我很會唸書，特別是唸中文。原則上書上寫什麼，我就唸什麼。
 
 我原本沒有意識到這種死板板的唸書風格有什麼利弊。但以後見之明來看，這對於練習識字似乎非常有幫助。因為我每次唸書都紮紮實實地照本宣科，聽的人很容易就把書上的字形和我口中的字音連結起來。書上有寫的字，就一定會聽到我唸出來；我嘴巴有唸的字，就一定在書上找得到。不小心沒聽清楚我唸了什麼？沒關係，只要看一下前段文字就知道剛剛錯過了什麼，輕鬆補上！
-想預知接下來我會唸出什麼？很簡單，只要看看下一段文字就能知道即將要唸出什麼，輕鬆預測！也就是說在我的親子共讀的時光裡，識字的人就可以擁有鑑往與知來的能力。有誰不想要有這樣的能力呢？ 所以小狐熊都快速學會識字了。![]($https://blogger.googleusercontent.com/img/a/AVvXsEiGXqG5Uv4LlgDrXpryggVASYjXahLs5RjpDra0ag4oCnNQsFdIubcfYCQ4LZH2k3Ct4oKRoxV2sPD2rZiT_KTR8x1DOCM9rvUGX-AEUoze8Ha-ou_yXtXLXFIl5duuGvId_vUmtnv_Z3oWcKmF08hRn-2Eo--EpAAw6ndBHnNbXIPots3-gIf4GCUVWeI)
+想預知接下來我會唸出什麼？很簡單，只要看看下一段文字就能知道即將要唸出什麼，輕鬆預測！也就是說在我的親子共讀的時光裡，識字的人就可以擁有鑑往與知來的能力。有誰不想要有這樣的能力呢？ 所以小狐熊都快速學會識字了。![](https://blogger.googleusercontent.com/img/a/AVvXsEiGXqG5Uv4LlgDrXpryggVASYjXahLs5RjpDra0ag4oCnNQsFdIubcfYCQ4LZH2k3Ct4oKRoxV2sPD2rZiT_KTR8x1DOCM9rvUGX-AEUoze8Ha-ou_yXtXLXFIl5duuGvId_vUmtnv_Z3oWcKmF08hRn-2Eo--EpAAw6ndBHnNbXIPots3-gIf4GCUVWeI)
 
 
 

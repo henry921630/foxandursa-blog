@@ -11,7 +11,7 @@ url: "/2022/11/20221114-420-4-very-expensive-parking.html"
 難免有人會問：「哦？照你這麼說，如果違規者只要願意付足夠的錢，就可以讓違規變成一件有效率的事。那當你成為一秒鐘幾十萬上下的人物，是不是就會隨意違規停車了呢？」
 嗯，這個問題問得很好！
 經濟學討論的是效率，不討論公平。但現實中我們不能不討論公平。即便「公平」這件事沒有標準答案。
-每個人心裡都有一把尺……劫富濟貧可不可以？殺死兩個人以保全五個人的性命可不可以？把其它用路人的路權偷過來、搶過來，做更有效率的運用可不可以？![]($https://blogger.googleusercontent.com/img/a/AVvXsEgIsZPR8fDXTwrrWFHJmmE8WAc3l9TBV9J5YLyoZhB2usIs-hmhcK90YKbIyma77haMiLCw_frJClKagsh7HHEA6GaTU0znqzvcWlkOKE1EyF6EH5MzrB-2hUNUnh9lClGTYUbVMFn7xnIbv7XLS0mELGzenL1j8LYmnL5nUPQyBxMNCnfzySypNUiu)
+每個人心裡都有一把尺……劫富濟貧可不可以？殺死兩個人以保全五個人的性命可不可以？把其它用路人的路權偷過來、搶過來，做更有效率的運用可不可以？![](https://blogger.googleusercontent.com/img/a/AVvXsEgIsZPR8fDXTwrrWFHJmmE8WAc3l9TBV9J5YLyoZhB2usIs-hmhcK90YKbIyma77haMiLCw_frJClKagsh7HHEA6GaTU0znqzvcWlkOKE1EyF6EH5MzrB-2hUNUnh9lClGTYUbVMFn7xnIbv7XLS0mELGzenL1j8LYmnL5nUPQyBxMNCnfzySypNUiu)
 
 對於有答案的效率問題，我可以跟你分享我的算法與答案。對於沒有答案的公平問題，我們心中可以有各自的一套答案。
 至於你問我會不會違規停車，我會說「原則上不會，因為我的教養不允許我這樣。」

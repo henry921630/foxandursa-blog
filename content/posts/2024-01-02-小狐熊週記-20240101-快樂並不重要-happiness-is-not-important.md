@@ -18,7 +18,7 @@ url: "/2024/01/20240101-happiness-is-not-important.html"
 「蛤，那什麼才是重要的？」我好奇地問。
 「做該做的事情，比快樂更重要。」小狐緩慢而堅定。
 「嗯……我覺得你說得很有道理。讓我一邊吃冰淇淋，一邊思考一下這個智慧的言語。」
-我把這句話拌進了冰淇淋裡，咀嚼再三嚥了下去。![]($https://blogger.googleusercontent.com/img/a/AVvXsEiPxrAtsKcFadZm8A0oJ-lDQJdC296_YpXmDar330t6fdaAPhGhKBRPvpI_hV9vglvTBZcVpOs80XkiqLhGC-9xRU1CX792EwG7hEOk3TSbXWODlU27RQmOIZGwlXE7aWSH9KddV-XO8BYvO-A_ViP7h2K-EeOEXDNP9QUkDIl-pFW5-R7vRMHCpWSUExA)
+我把這句話拌進了冰淇淋裡，咀嚼再三嚥了下去。![](https://blogger.googleusercontent.com/img/a/AVvXsEiPxrAtsKcFadZm8A0oJ-lDQJdC296_YpXmDar330t6fdaAPhGhKBRPvpI_hV9vglvTBZcVpOs80XkiqLhGC-9xRU1CX792EwG7hEOk3TSbXWODlU27RQmOIZGwlXE7aWSH9KddV-XO8BYvO-A_ViP7h2K-EeOEXDNP9QUkDIl-pFW5-R7vRMHCpWSUExA)
 
 
 
@@ -28,7 +28,7 @@ url: "/2024/01/20240101-happiness-is-not-important.html"
 語畢，將一枚堅果向空中一拋，然後在堅果落下時完美地接進嘴裡。
 我正得意洋洋於毫無預演一次就成功之際，
 小熊：「這個你之前就用藍莓示範過了啊。」
-我：「……啊，對喔，我都忘記我表演過了![]($https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)原來已經是老把戲了啊，哈哈，哈哈。」我發現有些人會訝異於小狐熊很會辨識不同的營養類型。
+我：「……啊，對喔，我都忘記我表演過了![](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)原來已經是老把戲了啊，哈哈，哈哈。」我發現有些人會訝異於小狐熊很會辨識不同的營養類型。
 例如哪些是蛋白質、澱粉、脂肪，或者哪些是原型食物、哪些是非原型食物。
 不過其實這就是我們家的日常語言。我常常下班回家一打開晚餐便當就說「太棒了！有澱粉、有蛋白質、還有青菜。而且還同時有海裡的蛋白質和陸上的蛋白質。真是營養豐盛的一餐！」
 有時候分享我碗裡的食物給小狐熊，我問的通常也不是「你要不要吃這個牛肉？」而是「你要不要吃這個蛋白質？」
@@ -38,7 +38,7 @@ url: "/2024/01/20240101-happiness-is-not-important.html"
 小熊好奇問我為什麼要再加點唐揚雞。
 我說：「因為我吃完之後覺得還想再吃一點蛋白質，所以我就又點了一份蛋白質。」我思考了一下，小狐所言的「快樂並不重要。做該做的事情，比追求快樂更重要。」
 不就類似於我一直在表達的嗎：「好不好吃並不重要。得到正確的營養，比追求美味更重要。」「當我沉思著小狐熊的話語，夜幕悄然低垂。桌上的火鍋仍在冒著熱氣，但我們家的溫暖卻遠超過它。我意識到，生活中的每一餐，每一句對話，甚至每一次思考，都是我們編織人生故事的線索。小狐熊的話提醒了我，快樂和責任並不相互矛盾，而是可以和諧共處的。就像營養和美味可以共存於一餐中，人生的意義也許就藏在這些平凡卻又深刻的日常之中。所以，我決定珍惜每一刻，不僅是為了尋找快樂，也是為了承擔那些讓我們成長、讓生活更加豐富的責任。這樣的智慧，或許就是小狐熊無意中教給我的最大禮物。」
-聲明通篇週記都是我自己寫的，除了最後一段話![]($https://fonts.gstatic.com/s/e/notoemoji/15.0/1f923/32.png)![]($https://blogger.googleusercontent.com/img/a/AVvXsEgK6zCdJ5FjD9x_lOh1GtPvi-p2P30gwMs29o9_dtDyEoS_s-ZpQXbpw3tGtZDbuSwYndEhFxPmzBDnJIa6W91_F6k57hr_Kbxp5s124TFavM3SAd-mMGs1xDn0NsEHIH0EqYa4tRchYGd3zJjOrftpGYvNjt9Mjw1WsilrAf3enT_SaDQ-UnX69SJrozU)
+聲明通篇週記都是我自己寫的，除了最後一段話![](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f923/32.png)![](https://blogger.googleusercontent.com/img/a/AVvXsEgK6zCdJ5FjD9x_lOh1GtPvi-p2P30gwMs29o9_dtDyEoS_s-ZpQXbpw3tGtZDbuSwYndEhFxPmzBDnJIa6W91_F6k57hr_Kbxp5s124TFavM3SAd-mMGs1xDn0NsEHIH0EqYa4tRchYGd3zJjOrftpGYvNjt9Mjw1WsilrAf3enT_SaDQ-UnX69SJrozU)
 
 
 

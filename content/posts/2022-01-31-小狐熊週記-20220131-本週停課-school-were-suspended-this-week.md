@@ -163,7 +163,7 @@ url: "/2022/01/20220131-school-were-suspended-this-week.html"
 
 小熊到今天都還在唱：「海獅會～嗨怕～」
 
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEg_A-_HgR9P5oqcbtI2woBD_kgocIGLSgMANPuTnIRWSxMAbTMfayYbHwBULFuQqGLveFCgBeqcYaFaTaUmgsWHNkz-yF8n8ut2Zs9pVEtr36yrWKxCOLTGXDAR0bjkH7_i0WPO4hQqig7KzE_TLcIPSP4-zNpiWTwlH40ckJx9Zp3jqQinx4ZNwwXC)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEg_A-_HgR9P5oqcbtI2woBD_kgocIGLSgMANPuTnIRWSxMAbTMfayYbHwBULFuQqGLveFCgBeqcYaFaTaUmgsWHNkz-yF8n8ut2Zs9pVEtr36yrWKxCOLTGXDAR0bjkH7_i0WPO4hQqig7KzE_TLcIPSP4-zNpiWTwlH40ckJx9Zp3jqQinx4ZNwwXC)
 
 
 

@@ -6,7 +6,7 @@ url: "/2024/04/20240422-growing-together-challenges.html"
 ---
 
 與好友小狐熊的同行樂趣
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEjZswNofad7w0L6JIp9c0GSU2dZZH713UMPhh6imZJmw5ClFUBSGuLZHyowtBq8bQzo9O7l8Iq_DCuEN4vfTR1ZKIW5M0NRpIeu2P61oqZeI4bofRqjar5IBbCratehOT82eioE4qQz6ThsQ-5yBgG_BRNAeayzcqZtO_eelom_gQ2Aq8P2qeWuZyylGfw)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEjZswNofad7w0L6JIp9c0GSU2dZZH713UMPhh6imZJmw5ClFUBSGuLZHyowtBq8bQzo9O7l8Iq_DCuEN4vfTR1ZKIW5M0NRpIeu2P61oqZeI4bofRqjar5IBbCratehOT82eioE4qQz6ThsQ-5yBgG_BRNAeayzcqZtO_eelom_gQ2Aq8P2qeWuZyylGfw)
 
 
 

@@ -37,6 +37,6 @@ url: "/2023/01/20230102-read-100-books-in-half-year.html"
 --
 親子共讀是最便宜的活動，因為只需要花時間。親子共讀也是最昂貴的活動，因為必須要花時間。
 投入的是時間，而贏回的也是時間，贏回現在與未來、家人共同相處的時間。
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEiF8dbCaKqiguSwire0obAEx24QeyFbihBg-8xamOiVsWTThQ7jt-Td582x_LZprRQEZka885hHpSyuHKQTcLvVA9npBVUvSo4CsQmnu7AKXTLzszmeJSetYUEcCQuyPExy5oE640upB-7zYsntlKdk0ELuq8NX-mtlyuW5EOgm2Z8rhjaLsdx6rBR1)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEiF8dbCaKqiguSwire0obAEx24QeyFbihBg-8xamOiVsWTThQ7jt-Td582x_LZprRQEZka885hHpSyuHKQTcLvVA9npBVUvSo4CsQmnu7AKXTLzszmeJSetYUEcCQuyPExy5oE640upB-7zYsntlKdk0ELuq8NX-mtlyuW5EOgm2Z8rhjaLsdx6rBR1)
 
 

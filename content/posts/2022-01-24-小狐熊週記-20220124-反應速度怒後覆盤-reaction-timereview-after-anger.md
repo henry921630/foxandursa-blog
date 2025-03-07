@@ -16,7 +16,7 @@ url: "/2022/01/20220124-reaction-timereview-after-anger.html"
 
 
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSXXF3psRgew9zXgxV-VoLpvG1vUuCYjSId7P0bpyRadQ81T_rOVISIFSiC4K8hHvPzxc89VjjTLMVu5iC5lKVhzpJhpgM8y-oVLws7_YVIUBU2vKDUXL3TTsku9HiqqZCNp91GUxQNE/w400-h400/image.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSXXF3psRgew9zXgxV-VoLpvG1vUuCYjSId7P0bpyRadQ81T_rOVISIFSiC4K8hHvPzxc89VjjTLMVu5iC5lKVhzpJhpgM8y-oVLws7_YVIUBU2vKDUXL3TTsku9HiqqZCNp91GUxQNE/w400-h400/image.png)
 
 
 
@@ -77,7 +77,7 @@ url: "/2022/01/20220124-reaction-timereview-after-anger.html"
 
 
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidN6IuSfwUkXsF0RvJbi1kEVp2Le12fKoD7FvweV2GqVFSH2eTqOBuXM6wEwPjAnHp32H5IolC9koKWzJdGxTWWKp_E5aWUlFZTVTaD33BZc4TNsw89Zch0Hdmd1LTBjO-dI20QjN-gIY/)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidN6IuSfwUkXsF0RvJbi1kEVp2Le12fKoD7FvweV2GqVFSH2eTqOBuXM6wEwPjAnHp32H5IolC9koKWzJdGxTWWKp_E5aWUlFZTVTaD33BZc4TNsw89Zch0Hdmd1LTBjO-dI20QjN-gIY/)
 (我拿了手邊的有線滑鼠和藍芽滑鼠各測了幾次，無線滑鼠反應時間明顯慢上幾十毫秒。可見這個數據僅供粗略參考。)
 
 

@@ -22,7 +22,7 @@ url: "/2022/08/20220822-fathers-talking-and-reading.html"
 其實上面提到那篇文，不但講了結論，也分析了爸爸陪讀的具體特性與影響機轉。所以如果單純想要追求智商高、成績高，媽媽完全可以自己根據文中所描述的特性來模擬爸爸講故事的方法。我想應該會有差不多的效果。
 只是不知道值不值得😆
 
-還好，我們家小狐熊的爸爸媽媽都有陪讀，不管各有什麼好處都不漏失。![]($https://blogger.googleusercontent.com/img/a/AVvXsEgVzMK1-gST17wZ1BRjXSbUXq98XfwXKUyfaug9pz1qyNdGMenr2FlKUux7FnjVcoHGLeect1l9FzV9ZSnz5HpPaBcJ-_OPJgHWAyAZ2C2DH9aCFZivrnMJuoAQhwoKlnnmiuSdiUJGMYl3L72-40gQwjHUvpeYTiZ8KitmRsbFdcpYCi5DOZZ7910n)
+還好，我們家小狐熊的爸爸媽媽都有陪讀，不管各有什麼好處都不漏失。![](https://blogger.googleusercontent.com/img/a/AVvXsEgVzMK1-gST17wZ1BRjXSbUXq98XfwXKUyfaug9pz1qyNdGMenr2FlKUux7FnjVcoHGLeect1l9FzV9ZSnz5HpPaBcJ-_OPJgHWAyAZ2C2DH9aCFZivrnMJuoAQhwoKlnnmiuSdiUJGMYl3L72-40gQwjHUvpeYTiZ8KitmRsbFdcpYCi5DOZZ7910n)
 
 
 

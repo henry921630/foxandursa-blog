@@ -24,6 +24,6 @@ url: "/2022/11/20221130-courage-serenity-wisdom.html"
 
 溝通需要時間，平復情緒需要時間，一起找出替代方案需要時間，所以我們今天超級晚出門。但以後見之明來說，我覺得這其實比急躁生氣、不耐催逼，還來得更有效率。
 發怒有害健康，承受怒氣也有害健康。當以怒氣驅動小孩的時候，也許可以省下十分鐘早點出門上班上學。但可能我們的壽命也都因此減損了十分鐘。
-我本來想得意地跟小狐熊分享說：「生氣是一種選擇，不生氣也是一種選擇。我今天選擇了不生氣，我覺得我選得真好！」只是後來上學的路上我們又在聊一些有的沒的，我就忘記說了XD![]($https://blogger.googleusercontent.com/img/a/AVvXsEhWuMdnVYgnIEl5fP4Vf9him6uyo_pb-Rn8SbHB0WcACixD9Mm9R9Yy-FCZG4DDpiBfiHz1W9D49s8XDKwrzsj_EYLgqlbzxOOCo4HFQZqC459hwb5U2BK-KaL9HU6OWO69IIeaiH_tz_MR16EyKXOJXScchCmvEt_BqWf_K-atT2I-DQj4XlZrquGR)
+我本來想得意地跟小狐熊分享說：「生氣是一種選擇，不生氣也是一種選擇。我今天選擇了不生氣，我覺得我選得真好！」只是後來上學的路上我們又在聊一些有的沒的，我就忘記說了XD![](https://blogger.googleusercontent.com/img/a/AVvXsEhWuMdnVYgnIEl5fP4Vf9him6uyo_pb-Rn8SbHB0WcACixD9Mm9R9Yy-FCZG4DDpiBfiHz1W9D49s8XDKwrzsj_EYLgqlbzxOOCo4HFQZqC459hwb5U2BK-KaL9HU6OWO69IIeaiH_tz_MR16EyKXOJXScchCmvEt_BqWf_K-atT2I-DQj4XlZrquGR)
 
 

@@ -15,14 +15,14 @@ url: "/2022/04/dating-time-of-father-and-son.html"
 
 --
 出去玩的當天，小狐全程都非常乖、非常配合我的引導！可能是因為我也都非常配合他吧😆
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEi75mL-toIjQ4t16QAIExl2yphkHUDhBqrMuFtgcYzkchtxrheO1Zu0jGv0N9n50nxoWiwUl54YpUXfElTVjnBnNUOYKEKJfYClvMN3jorfwZ_YUfU5Y7CNHjoC5q3Gv73WSCWqdsYT9jRnY7qXAuAMv3t6mufc_Cuz4buqmtegKKHUTHibXh2sBXm5=w300-h400)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEi75mL-toIjQ4t16QAIExl2yphkHUDhBqrMuFtgcYzkchtxrheO1Zu0jGv0N9n50nxoWiwUl54YpUXfElTVjnBnNUOYKEKJfYClvMN3jorfwZ_YUfU5Y7CNHjoC5q3Gv73WSCWqdsYT9jRnY7qXAuAMv3t6mufc_Cuz4buqmtegKKHUTHibXh2sBXm5=w300-h400)
 
 
 我都鼓勵小狐熊有什麼需求都儘管提出來，以善良禮貌的態度儘量爭取看看。可以達成的需求我就會儘量配合，實在有困難的我就會儘量解釋困難何在。
 答不答應在對方，爭不爭取在自己。如果有想要的東西，就要想辦法試著努力看看！大不了就試了然後發現失敗而已嘛😆
 同樣地如果我有什麼需求，我也會以善良禮貌的態度跟小狐熊爭取。例如在兒童新樂園的時候，我跟小狐說我想去買咖啡，但小狐一開始都不肯陪我去。在我幾番積極爭取之後，才終於一起去了😆
 --
-在摩天輪上，我問小狐要不要跟羅伊拍照，小狐說不要。於是我說那我就幫羅伊拍照就好囉：![]($https://blogger.googleusercontent.com/img/a/AVvXsEgbx9g6H7UhjNe_34rM719k6WR5qTKshfBoGhRG8UCuHE2lbdYiZEHGOb9ohy_EgmTT4gqi9fBy9xjksshCr6H6bSGu7zUC75tSXmpjY3Hqz_M_97-edLzht-qJDdH43v6JftlADScPeKqkPrrEwNba32Hw6Ui6ERZz5PqbL_hwl4__L39tGHI4B8-F=w225-h400)
+在摩天輪上，我問小狐要不要跟羅伊拍照，小狐說不要。於是我說那我就幫羅伊拍照就好囉：![](https://blogger.googleusercontent.com/img/a/AVvXsEgbx9g6H7UhjNe_34rM719k6WR5qTKshfBoGhRG8UCuHE2lbdYiZEHGOb9ohy_EgmTT4gqi9fBy9xjksshCr6H6bSGu7zUC75tSXmpjY3Hqz_M_97-edLzht-qJDdH43v6JftlADScPeKqkPrrEwNba32Hw6Ui6ERZz5PqbL_hwl4__L39tGHI4B8-F=w225-h400)
 --
 帶小孩出去玩真的很累，除了體力累之外，頭腦也累。因為溝通就是一件很累的事情😆 要用心聽懂對方講的話、還要用心聽懂對方沒講的話，然後還要用心講對方聽得懂的話。真的累死我了😫
 不過還好，說到底其實也就只有講話與動腦很累而已。小狐當天應該是真的很開心能跟爸爸出去玩吧，完全沒有脫序行為。所以我也就沒什麼情緒上的累。

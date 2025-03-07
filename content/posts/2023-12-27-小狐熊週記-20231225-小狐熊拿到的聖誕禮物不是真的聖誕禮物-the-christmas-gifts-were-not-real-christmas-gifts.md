@@ -7,7 +7,7 @@ url: "/2023/12/20231225-christmas-gifts-were-not-real.html"
 
  又到了聖誕節了。我其實很好奇在台灣「有幫孩子準備聖誕禮物的家長」的比例到底有多少。
 
-因為通常只有「有準備禮物」的人會公開分享，所以如果只看 IG/FB 上的風向肯定是很難估計得準的。![]($https://blogger.googleusercontent.com/img/proxy/AVvXsEiXiYXoeJ_T8LE9tdiBRoJ1VPE300cJszfBvJgNx2guIZQi6i3mlh8GZPq5cwBaBDcZ-_3QgFRJjv2GFGio2V2mUaRzGqxXVVymYpyfbJScaCy2OHDhQhca_eb_bbPOfOTiV2rXmUw0YMeBPzsDpfQ2UK0W-lIyj3Fvr8l-HZOiQL1jQWjf0h-BOcFZiA_IwRnOdof81thcTl9NienN=w414-h407)會不會「完全沒有準備禮物的家庭」才是那真正的沉默的大多數呢？ 我也不知道![]($https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)我們家是沒有在假裝有聖誕老公公的，更沒有跟小狐熊說什麼「你要乖要聽話才會有聖誕禮物哦！」這種觀念。
+因為通常只有「有準備禮物」的人會公開分享，所以如果只看 IG/FB 上的風向肯定是很難估計得準的。![](https://blogger.googleusercontent.com/img/proxy/AVvXsEiXiYXoeJ_T8LE9tdiBRoJ1VPE300cJszfBvJgNx2guIZQi6i3mlh8GZPq5cwBaBDcZ-_3QgFRJjv2GFGio2V2mUaRzGqxXVVymYpyfbJScaCy2OHDhQhca_eb_bbPOfOTiV2rXmUw0YMeBPzsDpfQ2UK0W-lIyj3Fvr8l-HZOiQL1jQWjf0h-BOcFZiA_IwRnOdof81thcTl9NienN=w414-h407)會不會「完全沒有準備禮物的家庭」才是那真正的沉默的大多數呢？ 我也不知道![](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)我們家是沒有在假裝有聖誕老公公的，更沒有跟小狐熊說什麼「你要乖要聽話才會有聖誕禮物哦！」這種觀念。
 講粗暴一點就是：我們才不管你想不想要聖誕禮物，該做的事本來就是要做！你不做的話就要自己承擔自然後果與邏輯後果。呼應一下去年的 [小狐熊週記] 20221226 小狐熊三歲的聖誕節我們家並沒有跟小狐熊討論到什麼聖誕老人的話題。
 但我們還是有送小狐熊聖誕禮物。我們既沒有說「要表現良好，才能得到禮物」
 也沒有假裝說「送禮物的人是聖誕老公公」我們就是很直白地說：「我們有幫小狐熊準備聖誕禮物。」而且我本來打算今天早上上學時跟小狐熊說：
@@ -15,14 +15,14 @@ url: "/2023/12/20231225-christmas-gifts-were-not-real.html"
 甚至不是用這個聖誕禮物來交換你對我的愛。
 我只是希望你能夠感到開心、感到被愛。即可。我要不要愛你、要不要待你好，是我可以自己決定的；
 你要不要愛我、要不要待我好，是你可以自己決定的」我要不要愛你、要不要待你好，是我可以自己決定的。所以我今年又決定幫小狐熊準備聖誕禮物了～今年的禮物是一個尋寶遊戲。我心裡的劇本是這樣的：
-小熊在聖誕節的早晨來到餐桌邊，發現怎麼有一隻旅蛙站在餐桌上，旁邊還有一張紙條寫著：![]($https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)所以我也問了小狐熊下次還要不要再玩尋寶遊戲。
+小熊在聖誕節的早晨來到餐桌邊，發現怎麼有一隻旅蛙站在餐桌上，旁邊還有一張紙條寫著：![](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)所以我也問了小狐熊下次還要不要再玩尋寶遊戲。
 小狐熊興奮地說下次聖誕節也要玩！生日也要玩！有禮物的時候都要玩！還叫我要在五月四日的晚上趁他們睡覺的時候設計尋寶遊戲！(注：小狐熊的生日是五月五日)
 我解釋說設計尋寶遊戲很花時間，如果五月四日晚上才做可能會來不及。
-小狐就說：「那就要從四月就開始設計！」好哦，至此我就知道了，看來小狐熊是真心覺得蠻好玩的![]($https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)我也解釋了這次因為是第一次嘗試這種方式，所以我這次把線索都弄得很簡單。下一次就可以挑戰更困難一點的解謎了！有沒有什麼禮物是既不用花什麼錢、又不會讓一堆小廢物佔據家裡一堆空間、留也不是丟也不是呢？
+小狐就說：「那就要從四月就開始設計！」好哦，至此我就知道了，看來小狐熊是真心覺得蠻好玩的![](https://fonts.gstatic.com/s/e/notoemoji/15.0/1f606/32.png)我也解釋了這次因為是第一次嘗試這種方式，所以我這次把線索都弄得很簡單。下一次就可以挑戰更困難一點的解謎了！有沒有什麼禮物是既不用花什麼錢、又不會讓一堆小廢物佔據家裡一堆空間、留也不是丟也不是呢？
 不如就送一個「體驗」吧。我也跟小狐熊講得很清楚，我為小狐熊準備的聖誕禮物，根本不是尋寶遊戲最後找到的那一袋禮物。
 而是尋寶遊戲本身。
 「尋寶遊戲」就是我送給小狐熊的聖誕禮物。我猜多年後的小狐熊可能老早就忘了這一袋裡面裝了什麼東西，
 但這個尋寶的體驗，可能會記上很多年。再次回應去年的 [小狐熊週記] 20221226 小狐熊三歲的聖誕節直接戳破沒有聖誕老人的這件事，會很不浪漫嗎？
-才不，我覺得我比這個一年才出現一次的老頭子浪漫多了。今年的小熊說得好：「聖誕老公公哪裡會知道我們家有海洋生物小百科呢！」是啊，聖誕老公公一年才來造訪一次，然後隨便送一個用來打發小朋友的普通禮物。怎麼敵得過我這個潛伏在小狐熊身邊一整年、近身觀察小狐熊的習性、學習小狐熊的語言、然後將其融入尋寶遊戲的客製化體驗呢！![]($https://blogger.googleusercontent.com/img/a/AVvXsEg_jec9GlQEto8hQiUp7B_Xhtg5x1nv1tt-ro1E5s7yO3JpTR1Y9nNAWfjaUxWNnlHRpaCt9fr0ZwTX53ZTRBZb7UUvUf6DFKGC1Xdu_DM_bCNikxe7Lwt6MCnfMoYFcD-3iuhJF7pxc9DKEPZZ1hZPYFbii4DdpR3XxMBTq3pWn8IrOaDMGcZ5cUp9q1s)
+才不，我覺得我比這個一年才出現一次的老頭子浪漫多了。今年的小熊說得好：「聖誕老公公哪裡會知道我們家有海洋生物小百科呢！」是啊，聖誕老公公一年才來造訪一次，然後隨便送一個用來打發小朋友的普通禮物。怎麼敵得過我這個潛伏在小狐熊身邊一整年、近身觀察小狐熊的習性、學習小狐熊的語言、然後將其融入尋寶遊戲的客製化體驗呢！![](https://blogger.googleusercontent.com/img/a/AVvXsEg_jec9GlQEto8hQiUp7B_Xhtg5x1nv1tt-ro1E5s7yO3JpTR1Y9nNAWfjaUxWNnlHRpaCt9fr0ZwTX53ZTRBZb7UUvUf6DFKGC1Xdu_DM_bCNikxe7Lwt6MCnfMoYFcD-3iuhJF7pxc9DKEPZZ1hZPYFbii4DdpR3XxMBTq3pWn8IrOaDMGcZ5cUp9q1s)
 
 

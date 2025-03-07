@@ -8,7 +8,7 @@ url: "/2022/08/badminton-badminton-and-table-tennis.html"
 
 這禮拜有三個晚上，家人都在外旅宿，家裡只有我一個人。我每個晚上都幫自己安排了十分充實的活動，
 分別是打球、打球、以及打球。
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEiDfItGFeFanjSfW5u-5nT6h4Hz-Fzr-7ilNcjDt4_tCHVospI97yiHV4bur244R7FABXwzeus1DvUYK7NkHVmUuSlac9EujIvZ6nM8CUxuISavzCU7KGKjPDuY_IHkOK8BbXFLMW4NLuXsx5KcMcqFPLaXjjAsbd5Q85f6ufevHpGdhFxV_nQex2jx)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEiDfItGFeFanjSfW5u-5nT6h4Hz-Fzr-7ilNcjDt4_tCHVospI97yiHV4bur244R7FABXwzeus1DvUYK7NkHVmUuSlac9EujIvZ6nM8CUxuISavzCU7KGKjPDuY_IHkOK8BbXFLMW4NLuXsx5KcMcqFPLaXjjAsbd5Q85f6ufevHpGdhFxV_nQex2jx)
 
 --
 我曾經寫過一篇關於#送禮的藝術 的文章(其實更精確地說，應該是「送禮給Henry的藝術」)而今年生日，我自己也沒有想到任何可以當作生日禮物的東西。(我認為禮物這種東西當然必須要自己想好、並且自己講出來。不然別人哪知道該送什麼。我覺得讓別人去思考該買什麼禮物，是一件很差勁、不負責任、且置對方於險地的行為)
@@ -34,6 +34,6 @@ url: "/2022/08/badminton-badminton-and-table-tennis.html"
 --
 一如那句老話，讓每份資源都發揮它的最大效益，是我不容推卸的責任！務要把握每個機會，買入被低估的項目，致力於提升家庭幸福指數！
 是以本週三個自由的夜晚，我天天都去打球了。我彷彿不只收到了生日禮物、還得到了父親節禮物、中秋節禮物、聖誕節禮物呢！人生快樂，就是這麼簡單～
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEjIIKbVT_eyCBJNxyNM88trWJHnzKr70ZWujb2k5SaolmGvuIDy3lV7F0wjUmzzCfpX1N5c2hOW-UIA2Z8UZjwTbGDU7IZ-u8tihhS-1lpYe-Ke3FgX59607Yawpfh3natSwraIvs7gGV-E7ljp51ozDy4_vwl1FReS7ZsSJcd-_OxwnCF_xuCRjytT)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEjIIKbVT_eyCBJNxyNM88trWJHnzKr70ZWujb2k5SaolmGvuIDy3lV7F0wjUmzzCfpX1N5c2hOW-UIA2Z8UZjwTbGDU7IZ-u8tihhS-1lpYe-Ke3FgX59607Yawpfh3natSwraIvs7gGV-E7ljp51ozDy4_vwl1FReS7ZsSJcd-_OxwnCF_xuCRjytT)
 
 

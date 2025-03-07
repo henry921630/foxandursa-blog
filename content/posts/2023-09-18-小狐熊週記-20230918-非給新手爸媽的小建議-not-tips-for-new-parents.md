@@ -5,7 +5,7 @@ draft: false
 url: "/2023/09/20230918-not-tips-for-new-parents.html"
 ---
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPgTsSTfX75ITGpknn5xh7sDgtgzY426Yc_jvDtfDyM3ckJv0Kz9C7wzfyLZbTQVAOdMLKgn7GnQutsjBIjQ3GlfMY_IciWoPaPK6_l8vPmIO92AjGeZUuxuUs42CZyY40j4EZR6VJG8LrQ-D3X-kYXdiz8yDeOZ_bEjcHWkofm2vIeX9CWSDhqEs4tYY/s320/PXL_20230914_043115190.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPgTsSTfX75ITGpknn5xh7sDgtgzY426Yc_jvDtfDyM3ckJv0Kz9C7wzfyLZbTQVAOdMLKgn7GnQutsjBIjQ3GlfMY_IciWoPaPK6_l8vPmIO92AjGeZUuxuUs42CZyY40j4EZR6VJG8LrQ-D3X-kYXdiz8yDeOZ_bEjcHWkofm2vIeX9CWSDhqEs4tYY/s320/PXL_20230914_043115190.jpg)
 
 
 

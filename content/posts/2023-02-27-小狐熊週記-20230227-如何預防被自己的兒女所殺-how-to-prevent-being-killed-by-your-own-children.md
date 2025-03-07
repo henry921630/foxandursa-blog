@@ -44,7 +44,7 @@ url: "/2023/02/20230227-how-to-prevent-being-killed-by.html"
 
 「就本書所探討的所有暴力行為來看，不被自己的兒女所殺，是最容易預防的事，萬全之策就是在小孩還没大到可以傷人之前，就努力做個慈愛的父母親。」
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTF1CtBYRX0UChZhe1qIehZfVbWmnNKNTOnuRoKIwvJNF7-I7sTj8VYRXD5j0bPIBoMIIMz98ZvD0v9YGNJg4H9NJRsfZojGh0lBSqecXLS30NasbF61x-gcDMC1m9-vjrgu37dH9VGI/w673-h893-s-no/?authuser=0)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSTF1CtBYRX0UChZhe1qIehZfVbWmnNKNTOnuRoKIwvJNF7-I7sTj8VYRXD5j0bPIBoMIIMz98ZvD0v9YGNJg4H9NJRsfZojGh0lBSqecXLS30NasbF61x-gcDMC1m9-vjrgu37dH9VGI/w673-h893-s-no/?authuser=0)
 
 不要暴力對待孩子、不要忽略孩子、不要羞辱孩子。 就這麼簡單的概念。
 

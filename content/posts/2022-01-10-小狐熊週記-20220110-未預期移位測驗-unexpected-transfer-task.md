@@ -20,7 +20,7 @@ url: "/2022/01/20220110-unexpected-transfer-task.html"
 接著問題來了：「請問小朋友，你們覺得虎鯨這時候會先去黃色的碗找、還是先去紅色的碗找呢？」
 我們家前前後後測試了幾天，換過了好幾輪演員與道具。(以下為演員示意圖：)
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc76ILmlnRL5lMIirZ7bzgF_UGGIgOYJ3r8rl1E2C3HalC6p2Ql1RWP_X3MNUuwNnnyGPwjahqF0Kgd5EI5BE7jqjC6pwSV3dNIg-lWimJeIDGCvjzHb7KYOSXM9jzdzhJrt7-7opYjzE/)![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXU6ML0qdQTM8ChoVbwRYY3uHKnC8AwsDczyRLcHJjPDkFcXt0ERYyZyARbXgvkhBhyBcsWCfqB6ZcwWfAGwIzWHCVMbT6B5iI8XcyUsQ03kppMw6cMrIArG-ASlZZQDDYIOezRwZsGzU/)![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwQcOSqmPXYOFu41HSjCULKLbuXufLPSJfz6EdxrRkG5knNo39urUr2lwGRqkttRnKT4BDm6e6oNR0ejOuPjknqwq-QCjfo5fNsUnVY_dm2jvYkls4pVEE4uya8-SAqTv6mI4xdIJLiN4/)![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEudf2jxsQ0LHaMZrkSgYpPCcs71ZMUl-EIQ2x7XuTKYEvanGmuK2l4osmRmHQAgBqYeMykT1rGf5Zq4OSxditXQkNQlvYPyraD3Er-4nPHsPX9wGYtzAKirZz2VtN1UHTMsOb9ETeB8/)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc76ILmlnRL5lMIirZ7bzgF_UGGIgOYJ3r8rl1E2C3HalC6p2Ql1RWP_X3MNUuwNnnyGPwjahqF0Kgd5EI5BE7jqjC6pwSV3dNIg-lWimJeIDGCvjzHb7KYOSXM9jzdzhJrt7-7opYjzE/)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXU6ML0qdQTM8ChoVbwRYY3uHKnC8AwsDczyRLcHJjPDkFcXt0ERYyZyARbXgvkhBhyBcsWCfqB6ZcwWfAGwIzWHCVMbT6B5iI8XcyUsQ03kppMw6cMrIArG-ASlZZQDDYIOezRwZsGzU/)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwQcOSqmPXYOFu41HSjCULKLbuXufLPSJfz6EdxrRkG5knNo39urUr2lwGRqkttRnKT4BDm6e6oNR0ejOuPjknqwq-QCjfo5fNsUnVY_dm2jvYkls4pVEE4uya8-SAqTv6mI4xdIJLiN4/)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEudf2jxsQ0LHaMZrkSgYpPCcs71ZMUl-EIQ2x7XuTKYEvanGmuK2l4osmRmHQAgBqYeMykT1rGf5Zq4OSxditXQkNQlvYPyraD3Er-4nPHsPX9wGYtzAKirZz2VtN1UHTMsOb9ETeB8/)
 
 
 測驗過程中，也試過把觀察視角拉到局外來思考，也試過讓小狐直接入戲參與偷換位置的惡作劇過程。但小狐熊沒有一次答對。每次都答得既篤定、又錯誤😆而且在我反覆確認、再三確認下，仍然全部答錯。
@@ -32,7 +32,7 @@ url: "/2022/01/20220110-unexpected-transfer-task.html"
 
 快樂的秘訣
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzCdnyOyaxRHg0cN1QCP4W0mA6Synfx3j6CQoL-QwGtuwQhIjzQ-1w6XvYRoUPfyRrXXZwc0l2dUbJaP83r0kZ6OyA3ET7BQBzMXhW95hYxq2IxVcT4s7YVABWkG6lvjUM8WdK8oYETlg/w302-h400/image.png)快樂的秘訣
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzCdnyOyaxRHg0cN1QCP4W0mA6Synfx3j6CQoL-QwGtuwQhIjzQ-1w6XvYRoUPfyRrXXZwc0l2dUbJaP83r0kZ6OyA3ET7BQBzMXhW95hYxq2IxVcT4s7YVABWkG6lvjUM8WdK8oYETlg/w302-h400/image.png)快樂的秘訣
 
 --覺得人類的幼崽發育得好慢喔，真的沒看過這麼慢熟的物種。
 都已經出生981天了，距離成熟體顯然還遠得很……不過再過四個月，小狐熊的這句台詞就要封口一年囉：「哼哼，我可不是三歲小孩啊！」

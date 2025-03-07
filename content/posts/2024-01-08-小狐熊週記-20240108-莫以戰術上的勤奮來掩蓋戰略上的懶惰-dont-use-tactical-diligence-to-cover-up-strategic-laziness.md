@@ -9,7 +9,7 @@ url: "/2024/01/20240108-dont-use-tactical-diligence-to.html"
 
 
 
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEg0w9CKB77cdI2SsnDqZD_s9U85KHc6-Dib_RwT0HNlDWcvleP7tokc9IgFx5FuFQMjt3kAGeb3r53vFJocBKl14EFX1OqMsus_gMAaF2jF_b9qmMLPsSJI3-TLhPbdcqgM50HHNbp35ucrnPWSqUWQ3ja4HdeUYbavoHXSBpWboyZohQbQCfPEqABPnQg)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEg0w9CKB77cdI2SsnDqZD_s9U85KHc6-Dib_RwT0HNlDWcvleP7tokc9IgFx5FuFQMjt3kAGeb3r53vFJocBKl14EFX1OqMsus_gMAaF2jF_b9qmMLPsSJI3-TLhPbdcqgM50HHNbp35ucrnPWSqUWQ3ja4HdeUYbavoHXSBpWboyZohQbQCfPEqABPnQg)
 
 
 

@@ -10,7 +10,7 @@ url: "/2022/11/20221114-420-2-very-expensive-parking.html"
 而我們家一直以來採用的停法，是我不曾看過別人使用的第三種：3. 停在幼兒園後巷的付費車位，熄火。
 
 這個車位其實不便宜，每小時收費$70元，而且最低單位就是一小時起算。不管是停15分鐘或50分鐘，都會被收$70元。我送小狐熊上學通常只會暫停10分鐘而已。是以我可以聲稱這是個平均一小時$420的昂貴車位。
-這個昂貴車位只有在天氣惡劣的日子我才有可能去停。所以就某個角度來說，我也是看天吃飯。![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvyCAKMErZcoxtO4keX7q8DLrK7mp-uNpZlcDysEg1ZeQlXCGBdIBdW87pmQHj87tt-Y4vea7kTohLGpy_jsQgz0LWmMXAUYKAQuPSinYZoMWECMOQXMrpjfFTKm-zEAQWNzZAb1IPE3pFoAIk4D3Y8po-5SN8Zq9vxlZS_EkRziGfZ7pvR1X1pmF/s320/5002647_s.jpg)
+這個昂貴車位只有在天氣惡劣的日子我才有可能去停。所以就某個角度來說，我也是看天吃飯。![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihvyCAKMErZcoxtO4keX7q8DLrK7mp-uNpZlcDysEg1ZeQlXCGBdIBdW87pmQHj87tt-Y4vea7kTohLGpy_jsQgz0LWmMXAUYKAQuPSinYZoMWECMOQXMrpjfFTKm-zEAQWNzZAb1IPE3pFoAIk4D3Y8po-5SN8Zq9vxlZS_EkRziGfZ7pvR1X1pmF/s320/5002647_s.jpg)
 
 
 當天氣溫和良好的時候，我就正常吃飯。當天公不作美的時候，我就會損失幾近一餐飯的飯錢。

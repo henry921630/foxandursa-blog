@@ -11,6 +11,6 @@ url: "/2021/09/20210906-fox-and-ursa-go-to-school.html"
 
 所以寫給狐熊：當你們在讀這系列週記的時候，切記，所謂的「小狐熊週記」不是「記載狐熊行為的週記」，而是「記載阿羊思考心得的週記，只是以狐熊主題為素材而已。」看的時候莫有「原來我小時候是這個樣子啊」的偏差想法，更精確的認知應當是「原來爸爸以前是這樣看待我啊」😆
 
-本文：小狐熊本週開始去幼兒園了，狐熊媽媽老早給他倆備好了各種上學用品。還幫兩個人各準備了一個同班同學從家裡帶去。自備比較熟悉的同學去學校，比起全班都是陌生人來說，應該可以減緩一點焦慮吧？不過其實班上也有幾位同學是狐熊各自托嬰中心的舊識，這樣應該就更不焦慮了吧。![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7lWGSFVxGfad_XTARDhlHT1IA1U6HBkdadRY-kQ8yyP-eGtptsHAdke3uvyAe6VIT4i_RE7oAP8K3CiY7K-rxWy22rRLjU8Chr5DTwNz5fBaWbg75Hq6XityM1jIZ0kLOyHYZk55xc/)
+本文：小狐熊本週開始去幼兒園了，狐熊媽媽老早給他倆備好了各種上學用品。還幫兩個人各準備了一個同班同學從家裡帶去。自備比較熟悉的同學去學校，比起全班都是陌生人來說，應該可以減緩一點焦慮吧？不過其實班上也有幾位同學是狐熊各自托嬰中心的舊識，這樣應該就更不焦慮了吧。![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7lWGSFVxGfad_XTARDhlHT1IA1U6HBkdadRY-kQ8yyP-eGtptsHAdke3uvyAe6VIT4i_RE7oAP8K3CiY7K-rxWy22rRLjU8Chr5DTwNz5fBaWbg75Hq6XityM1jIZ0kLOyHYZk55xc/)
 
-早上送狐熊到校，他們好像也不會依依不捨，反正到校了就進去。放學了就回去。不知道是真的無感、還是強自忍耐。不過總地來說還算是看起來適應良好吧。但是開學後的我，每天都要額外花一個多小時在接送大家，嚴重擠壓到寫週記的時間。是以本週我本來想寫「外出取材，停刊一週」的，啊，時間差不多了，該準備外出了![]($https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/1f625.png)
+早上送狐熊到校，他們好像也不會依依不捨，反正到校了就進去。放學了就回去。不知道是真的無感、還是強自忍耐。不過總地來說還算是看起來適應良好吧。但是開學後的我，每天都要額外花一個多小時在接送大家，嚴重擠壓到寫週記的時間。是以本週我本來想寫「外出取材，停刊一週」的，啊，時間差不多了，該準備外出了![](https://static.xx.fbcdn.net/images/emoji.php/v9/t91/1/16/1f625.png)

@@ -20,7 +20,7 @@ url: "/2021/09/20210927-well-intentioned-evil.html"
 
 
 附兩張至善至美的芬蘭文化插圖。無怪乎人家可以成為全世界最幸福的國家且也是全世界最快樂的國家XD
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiltMtINu-hiQLt7d96f1zQVFz4_r5nNsv1qy2T7EwLvuqoDYYFVVuYXdw235ZeBbp8_kl2uJuL1O2wdz56Dur8pBeMd5qvIu5dc3C3smIgsUDy5NNSlUDQNcSDWwb8dBj9aZlnL6edSZM/w400-h266/image.png)
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLhWOZ4QQi-D2WkRHYrJHll8Z6nKQAKYy_6pr4_rWaFL-VqsuR5lv-IaHCKsFOLE0FkK2do6wUsTDT2Af7-JbM_OC1AeF2rx_gRVtzfbP4qOTfw57RCdjlJ6vOYSW4oTJ7aVHRgtWP5A/w400-h266/image.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiltMtINu-hiQLt7d96f1zQVFz4_r5nNsv1qy2T7EwLvuqoDYYFVVuYXdw235ZeBbp8_kl2uJuL1O2wdz56Dur8pBeMd5qvIu5dc3C3smIgsUDy5NNSlUDQNcSDWwb8dBj9aZlnL6edSZM/w400-h266/image.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKLhWOZ4QQi-D2WkRHYrJHll8Z6nKQAKYy_6pr4_rWaFL-VqsuR5lv-IaHCKsFOLE0FkK2do6wUsTDT2Af7-JbM_OC1AeF2rx_gRVtzfbP4qOTfw57RCdjlJ6vOYSW4oTJ7aVHRgtWP5A/w400-h266/image.png)
 
 

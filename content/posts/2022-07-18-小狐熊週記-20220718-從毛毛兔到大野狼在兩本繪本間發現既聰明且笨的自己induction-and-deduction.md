@@ -6,7 +6,7 @@ url: "/2022/07/20220718-induction-and-deduction.html"
 ---
 
 我是一個很依賴「定義」來進行理解的人，這使我常常留心於觀察對話中的各方，對彼此的用語定義是不是擁有一樣的理解 。同時這也使我培養出一個跟小狐熊交談時的習慣：在我使用了較少見的詞語後，勢必會補一句敘述來為這個詞語標明一個定義。
-有一次睡前故事，我唸了一本繪本：「毛毛兔喜歡玩遊戲」![]($https://blogger.googleusercontent.com/img/a/AVvXsEhOf_3fnzIewZNLR0lQciId4FjlCDEB1qBvHU-uKIVT33NXRmTCJWPm5jR3jq96S_ZYuLWvwmkh_pG_040mu2OV4MJawzPEuBeiQd5wrNXg0_2xnryqs0vSYouPhE-EWosLzBkY1v6XAfOkaZ5NsH7kvtL6Z9OTr2W-aCudJ7OVK1JRE4O9OXcH7LfD)
+有一次睡前故事，我唸了一本繪本：「毛毛兔喜歡玩遊戲」![](https://blogger.googleusercontent.com/img/a/AVvXsEhOf_3fnzIewZNLR0lQciId4FjlCDEB1qBvHU-uKIVT33NXRmTCJWPm5jR3jq96S_ZYuLWvwmkh_pG_040mu2OV4MJawzPEuBeiQd5wrNXg0_2xnryqs0vSYouPhE-EWosLzBkY1v6XAfOkaZ5NsH7kvtL6Z9OTr2W-aCudJ7OVK1JRE4O9OXcH7LfD)
 
 而當我正想解釋什麼是「遊戲」時，突然發現我沒辦法為此下一個簡明的定義。於是我轉向旁邊的狐熊媽媽求問：「『遊戲』是什麼意思啊？」狐熊媽媽立刻拋出了好幾個遊戲的例子。但沒等狐熊媽媽繼續講下去，我就再次重新表達了一次我的問題：「遊戲是什麼？」
 我想問的的問題是「遊戲是什麼？」，但狐熊媽媽的每個例子都在回答「什麼是遊戲？」狐熊媽媽給的每個例子我都百分之百認同，對！那的確是遊戲的一種！但我還是沒能得到這個問題的答案：「遊戲是什麼？」
@@ -32,7 +32,7 @@ url: "/2022/07/20220718-induction-and-deduction.html"
 我還沒有追尋到我心目中的夢幻定義，但在這過程中卻磨練出了一點歸納的能力。
 曾經有人對我這個人下了一個評語是「用很認真的方式在說幹話」我對這個評語的詮釋是：因為我總喜歡講客觀事實與數據、所以我總是可以講得很認真。而我還會把事實與數據進一步歸納出定義。在不違背既有樣本的前提下，有時我甚至可以歸納出好幾種不同版本的定義。然後我只要在適當的場合，選適合的版本講出來即可。是以若是一起講幹話的場合多了，我自然在對方眼中就會變成一個「用很認真的方式在說幹話」的人。
 --
-之前跟小狐熊講過另一本宮西達也的繪本叫做「我贊–––成」裡頭有五隻大野狼，名字分別是巴爾、比爾、布爾、貝爾、波爾。我只看了一次，就把這五隻大野狼的名字通通記起來了。![]($https://blogger.googleusercontent.com/img/a/AVvXsEiG_6C2LFkoop3z6lKNZiyutPJS_YkUJ5nQ57zSY8W_3E-mIGcaQX-wMy_D-4YBet4kx7Ueg-yDhp3IMwBhTgA8T4peWrRc0jt9LpERS-1MLNXDXN0TS9uLVV3khcNTyBrGTIzs1jtlOV9ZL8gJkLoTyM90HLa2_EVm7ZshgewrcNF4cHurUC4P4U8o)
+之前跟小狐熊講過另一本宮西達也的繪本叫做「我贊–––成」裡頭有五隻大野狼，名字分別是巴爾、比爾、布爾、貝爾、波爾。我只看了一次，就把這五隻大野狼的名字通通記起來了。![](https://blogger.googleusercontent.com/img/a/AVvXsEiG_6C2LFkoop3z6lKNZiyutPJS_YkUJ5nQ57zSY8W_3E-mIGcaQX-wMy_D-4YBet4kx7Ueg-yDhp3IMwBhTgA8T4peWrRc0jt9LpERS-1MLNXDXN0TS9uLVV3khcNTyBrGTIzs1jtlOV9ZL8gJkLoTyM90HLa2_EVm7ZshgewrcNF4cHurUC4P4U8o)
 
 因為我迅速地歸納出了他們名字的定義規則。一但找出了規則，我就可以完美地回答這兩個問題了：「什麼是大野狼的名字」與「大野狼的名字是什麼」
 回答一：「巴爾/比爾/布爾/貝爾/波爾，是大野狼的名字」回答二：「大野狼的名字 是子音ㄅ(b)與母音a/i/u/e/o的所有組合」

@@ -17,7 +17,7 @@ url: "/2022/05/20220523-fox-and-ursa-migration-is.html"
 就像我常說的：「拖地這種事，不應該由丈夫來做，也不應該由妻子來做。應當由具有比較利益的那個人來做！」我們是同一個經濟體，唯有每個人都專注在自己擅長的事情上，才能極大化總效益。如果事事都硬要公平分配成一人做一半，就只是斲傷經濟、造成無謂損失而已。
 
 --
-轉貼一個日本漫畫家 Otamiotanomi 的圖文：https://www.trendsmap.com/twitter/tweet/1514076192629919750![]($https://blogger.googleusercontent.com/img/a/AVvXsEhRpFB6zjfryX9jBHAz8cpOelNYhyzBfBFHkC5a3aukHhjmJHh6i0TjaigLvcK1AEsYXJALl32Q7xd1jUKdj1vz6miH-lAsnEPkdLeTCBNG0qAhl_kfpk0-9THTbh8DUWCI9N8FZk4XKtiqcCj_HLlRYQnKlNNrTc-oJCuIyloWfYSn8VbLp2hrsHXq=w277-h400)
+轉貼一個日本漫畫家 Otamiotanomi 的圖文：https://www.trendsmap.com/twitter/tweet/1514076192629919750![](https://blogger.googleusercontent.com/img/a/AVvXsEhRpFB6zjfryX9jBHAz8cpOelNYhyzBfBFHkC5a3aukHhjmJHh6i0TjaigLvcK1AEsYXJALl32Q7xd1jUKdj1vz6miH-lAsnEPkdLeTCBNG0qAhl_kfpk0-9THTbh8DUWCI9N8FZk4XKtiqcCj_HLlRYQnKlNNrTc-oJCuIyloWfYSn8VbLp2hrsHXq=w277-h400)
 「對老婆說：『你以為你是靠誰才有飯吃的啊』的這些人，退休後都被提了離婚。」真是既直白又好理解的一句話。顯然有些人認為「實際出外工作的人才是有賺錢的人。沒賺錢的人就必須仰賴賺錢的人才有飯吃。」
 但身為家裡唯一出外掙錢的人，我的體會是：某方面來說，我得貨財的能力是家人給我的。我是仰賴我的家人才換到更多飯吃的。
 我時常捫心自問：「你以為你是靠誰 才有空去做一些兼差打工？」「你以為你是靠誰 才能專心上班無後顧之憂？」「你以為你是靠誰 才能好好準備轉職面試？」

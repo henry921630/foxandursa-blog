@@ -13,7 +13,7 @@ url: "/2022/07/20220711-perfect-law-of-liberty.html"
 在餐桌上，我會絮絮叨叨小狐熊說不要把食物吃得滿桌滿地，除非你可以自己負責清理乾淨。玩玩具的時候，我會絮絮叨叨小狐熊說你當然可以把玩具嘩啦嘩啦地撒得滿地，只要自己負責收拾乾淨就沒問題。
 很多事情，只要小狐熊自己可以負責，我就沒什麼意見。
 
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEhhJ5NtMffRetJKlexYhPlBDK0mgLnMmBlz3-Ftbg4FEKY05ZvOxP8qMIrgX5i9PM-IEpZ_qOiQYlXmvFS_mWHdIOMdlC7cR5EdfrHyfpa-Ri-bFxDbxlzR6dzHC0q7AjcZIK9QL-CXRvyUK3j2dmYf5NHHmvmg7M_s-LHKjytpssHIPN_NzKhqarLV)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEhhJ5NtMffRetJKlexYhPlBDK0mgLnMmBlz3-Ftbg4FEKY05ZvOxP8qMIrgX5i9PM-IEpZ_qOiQYlXmvFS_mWHdIOMdlC7cR5EdfrHyfpa-Ri-bFxDbxlzR6dzHC0q7AjcZIK9QL-CXRvyUK3j2dmYf5NHHmvmg7M_s-LHKjytpssHIPN_NzKhqarLV)
 
 --
 日常教養過程的絮絮叨叨中，免不了持續產出一條一條又一條的規則。

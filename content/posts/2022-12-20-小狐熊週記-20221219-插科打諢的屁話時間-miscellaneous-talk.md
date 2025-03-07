@@ -41,7 +41,7 @@ url: "/2022/12/20221219-miscellaneous-talk.html"
 
 
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVO69jbL6-z1ucQHkUJgLjvze3AD2rcsiFAAXgdbj4ZzLfTiz5pV8XuQmxw3zusWxZTJ097EIJkD3i2qG0OpCmQ_cR9M0y1VrcvChSqLspvW39DGNhRqIbmX4h7oqKGOIo2xAfov3-EOmzsHfRqHiWv8i3Z6UPHuMAWohXGnXK8haMlbN5TnWg7o_i/s320/PXL_20221217_063005074.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVO69jbL6-z1ucQHkUJgLjvze3AD2rcsiFAAXgdbj4ZzLfTiz5pV8XuQmxw3zusWxZTJ097EIJkD3i2qG0OpCmQ_cR9M0y1VrcvChSqLspvW39DGNhRqIbmX4h7oqKGOIo2xAfov3-EOmzsHfRqHiWv8i3Z6UPHuMAWohXGnXK8haMlbN5TnWg7o_i/s320/PXL_20221217_063005074.jpg)
 
 
 

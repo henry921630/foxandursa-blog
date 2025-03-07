@@ -31,6 +31,6 @@ url: "/2022/04/20220418-exhaustive-method-is-quite.html"
 也許有讀者想抗議：這次小狐熊週記根本就沒有小狐熊的篇幅嘛！！
 
 ……嗯，你說的沒錯😄啊小狐熊雖然都全程在場，但就都沒有參與討論啊 ╮（╯＿╰）╭
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEi4uLz5VaYMax63wVYgglMhC5X1cGm3moaNATfeZo9C-TGHyDkijhCuI0N6iyApfQ1DIvYsGDU82y9DkDyC9BeaRrgHXsOFLZjSJ7c2vbHaXBQbhaqDyKC9KpEknOUYv_yAJN1gp2wS78C6xK8pzXn-Afgbr78nExPtJNIr1HdKeDXR7_pl3VP8z655=w400-h300)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEi4uLz5VaYMax63wVYgglMhC5X1cGm3moaNATfeZo9C-TGHyDkijhCuI0N6iyApfQ1DIvYsGDU82y9DkDyC9BeaRrgHXsOFLZjSJ7c2vbHaXBQbhaqDyKC9KpEknOUYv_yAJN1gp2wS78C6xK8pzXn-Afgbr78nExPtJNIr1HdKeDXR7_pl3VP8z655=w400-h300)
 
 

@@ -11,7 +11,7 @@ url: "/2022/12/20221205-fake-it-till-you-make-it.html"
 --
 小狐前幾天捧著書突然說了一句：「『欲窮千里目』的『目』，就是『我要向高山舉目』的『目』」
 
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwTnjkOjQpGnK2e9YxnHsCcZL9EnzReTFYZgfqYDhaNUkmVeBSB-r-qbmlPuGt_5dn-RSN-ZTM_2uixKkwQ9nOclCayNXVtu3RetIYtjrAwXc-g-3eFNky9fcPJuK0JeJALRUxuD0_85z0onrnMgTEsEJCRee5MrC5VIb2SKmatPIDfsMSvq4vtCZe/s320/1670253903837.jpg)![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZwBUtx8DF0XIZ0PXVVXofTEsWytUKcHnQzflHq1DfnUwfhZQ_j0DytSLM33TEgl6BeQY7KfIRPeJLlFR7879pMjhLGlWYXjzFnSSDbtvUTQ4XDB8qIntRJypzhPfSgTTASnODGi5BctxgnyYDEcSKtkqQja6fuTtba5n_eob8U_6mmFNVv4u_mtSP/s320/1670253903631.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwTnjkOjQpGnK2e9YxnHsCcZL9EnzReTFYZgfqYDhaNUkmVeBSB-r-qbmlPuGt_5dn-RSN-ZTM_2uixKkwQ9nOclCayNXVtu3RetIYtjrAwXc-g-3eFNky9fcPJuK0JeJALRUxuD0_85z0onrnMgTEsEJCRee5MrC5VIb2SKmatPIDfsMSvq4vtCZe/s320/1670253903837.jpg)![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZwBUtx8DF0XIZ0PXVVXofTEsWytUKcHnQzflHq1DfnUwfhZQ_j0DytSLM33TEgl6BeQY7KfIRPeJLlFR7879pMjhLGlWYXjzFnSSDbtvUTQ4XDB8qIntRJypzhPfSgTTASnODGi5BctxgnyYDEcSKtkqQja6fuTtba5n_eob8U_6mmFNVv4u_mtSP/s320/1670253903631.jpg)
 
 
 

@@ -23,7 +23,7 @@ UBI，就是一個站在無知之幕(veil of ignorance）後面的我會想要�
 
 --
 
-最近我們家幫小熊小狐各買了一個存錢筒，並且於同日展開了小狐熊UBI！![]($https://blogger.googleusercontent.com/img/a/AVvXsEj5O_ms50zOauOIEroOW2887LHoxvIL3zEphr1wptC3H60gbtgFKEzx6ikSVcZXSiuAsJFMdfdOUa2eOEv-nwrak1eBpRHyMBVEVcOGaeo4ZqFbOlM5cRXpKpXxh8nbWv6cIiILjW-tV_yPoS1_MzT-Wn24mplXqY05UHFBagttyL39kfbwBUFggkRf)
+最近我們家幫小熊小狐各買了一個存錢筒，並且於同日展開了小狐熊UBI！![](https://blogger.googleusercontent.com/img/a/AVvXsEj5O_ms50zOauOIEroOW2887LHoxvIL3zEphr1wptC3H60gbtgFKEzx6ikSVcZXSiuAsJFMdfdOUa2eOEv-nwrak1eBpRHyMBVEVcOGaeo4ZqFbOlM5cRXpKpXxh8nbWv6cIiILjW-tV_yPoS1_MzT-Wn24mplXqY05UHFBagttyL39kfbwBUFggkRf)
 
 目前的制度是在每日晚上刷完牙之後，一人發放一塊錢。這個錢全歸小狐熊所有，在不違背江湖道義、不違背良心的前提下，他們可以自行決定如何運用。
 雖然發錢的時間點是排在刷完牙之後，但這只是為了執行面的方便、比較不容易忘記發放。我們有跟小狐熊有再三強調UBI是無條件的。絕對不是因為有刷牙才能領錢。刷牙與領錢這兩件事情只是有時間上的高度相關性，但兩者並不具任何因果關係。

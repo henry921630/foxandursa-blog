@@ -16,17 +16,17 @@ url: "/2023/01/20230130-entertainment-beyond-shopping.html"
 直到有一天中午，我找到了一個地方，這裡又再次燃起了我內心的悸動感。我還記得當我第一次踏入這裡時，那種興奮的緊張感，就像是……想要大便一樣😆
 是的，這個地方就是臺北市立圖書館六和分館。
 繁華看盡之後，發現還是那些精煉的書籍最禁得起琢磨不膩。
-(如果你沒有聽說過逛書店會想大便的傳說，不妨 google 一下)![]($https://blogger.googleusercontent.com/img/a/AVvXsEhCf-FwJ7K5xMx-yNKC3qoHBNB7sUFuembfRq2kjAtS6lJOVpo3FGtyuZC-PqndxKgqj99dPhFS59nO8wGEIB_fQkBe8ddzynzSK2Fv16SBuKh3Gp_Wh7Kygtq6ueoF5332f3Oa7ti5btkOsORzlOyHxKu_MGq0m65KDkWDjUShWJWNGflTkOanHa2Q)
+(如果你沒有聽說過逛書店會想大便的傳說，不妨 google 一下)![](https://blogger.googleusercontent.com/img/a/AVvXsEhCf-FwJ7K5xMx-yNKC3qoHBNB7sUFuembfRq2kjAtS6lJOVpo3FGtyuZC-PqndxKgqj99dPhFS59nO8wGEIB_fQkBe8ddzynzSK2Fv16SBuKh3Gp_Wh7Kygtq6ueoF5332f3Oa7ti5btkOsORzlOyHxKu_MGq0m65KDkWDjUShWJWNGflTkOanHa2Q)
 
 
 是以我後來就鮮少再去逛街了，倒是常常趁著午休時間跑圖書館。著實趁機讀了不少好書。
 --
-前文提到帶小狐熊去的那家 UNIQLO ，他的兒童區有很多好玩的磁力片積木，而且片數蠻多的，足以搭建相當大的創作，顯得 UNIQLO 全球旗艦店的誠意十足。但是小狐熊一片也沒玩到……因為小狐熊90%的時間都在看兒童區的童書。![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkfstEW5VmGZL30a_MW_MG7E2VT6kSYDRnclP7vDm6nJiP9IS9P8LkIK1VaN94xbZDv1YvzWBtuEwZ7IxRXPKVgbOfbv58PJcSg-pdzFl8k0bQkLxaTZz6sU7eWi6ekk5KZMq67du4p8R6uOMoAluycfgTOyO2L08jQ6tvItiSyd-rDLm7BrKTDD85/s320/PXL_20230125_083933558.jpg)
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFQQ9tCRP_M9oXMywld-GHpn2cHYK_GTdY0kjMUyNOUmPkhT5gsZOwSGbaIZg8EZOWct0oDU67tRKJA2UE6CxcsIgKANghB5NTeY74S_jThwRSMQe6_UBCzYVPkH4U3310ltjgfNBQMuxYlV8nD_AS1Ug63Hhyl_h0L9yIZnhZJIHzy3DCHbF0NlL/s320/PXL_20230125_091319162.MP.jpg)
+前文提到帶小狐熊去的那家 UNIQLO ，他的兒童區有很多好玩的磁力片積木，而且片數蠻多的，足以搭建相當大的創作，顯得 UNIQLO 全球旗艦店的誠意十足。但是小狐熊一片也沒玩到……因為小狐熊90%的時間都在看兒童區的童書。![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkfstEW5VmGZL30a_MW_MG7E2VT6kSYDRnclP7vDm6nJiP9IS9P8LkIK1VaN94xbZDv1YvzWBtuEwZ7IxRXPKVgbOfbv58PJcSg-pdzFl8k0bQkLxaTZz6sU7eWi6ekk5KZMq67du4p8R6uOMoAluycfgTOyO2L08jQ6tvItiSyd-rDLm7BrKTDD85/s320/PXL_20230125_083933558.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGFQQ9tCRP_M9oXMywld-GHpn2cHYK_GTdY0kjMUyNOUmPkhT5gsZOwSGbaIZg8EZOWct0oDU67tRKJA2UE6CxcsIgKANghB5NTeY74S_jThwRSMQe6_UBCzYVPkH4U3310ltjgfNBQMuxYlV8nD_AS1Ug63Hhyl_h0L9yIZnhZJIHzy3DCHbF0NlL/s320/PXL_20230125_091319162.MP.jpg)
 
 
 
-好看的童書是很好看的。而且是不分年齡、老少咸宜地好看。所以我一邊等待小狐熊，一邊也在看書。這家 UNIQLO 的選書都挺不錯的，讓我等得津津有味。![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-VBksOa6tmExoJGA5v9SAdkM5gYiuITwPquqShb4dkwjgskI3kVZxA7frcXeo_IU_YWzHt2YqguHtgfMGbtVSrg_j5yGG64ZSWa8sPuEfbqynij7FBdBpDd9xIAfEVSOBx_y0xxLnIHObuS0cOtLbkemaDLyK2RV6_Y6_g3sSJNFJ4dLTihgvDoud/s320/PXL_20230125_091326868.jpg)
+好看的童書是很好看的。而且是不分年齡、老少咸宜地好看。所以我一邊等待小狐熊，一邊也在看書。這家 UNIQLO 的選書都挺不錯的，讓我等得津津有味。![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-VBksOa6tmExoJGA5v9SAdkM5gYiuITwPquqShb4dkwjgskI3kVZxA7frcXeo_IU_YWzHt2YqguHtgfMGbtVSrg_j5yGG64ZSWa8sPuEfbqynij7FBdBpDd9xIAfEVSOBx_y0xxLnIHObuS0cOtLbkemaDLyK2RV6_Y6_g3sSJNFJ4dLTihgvDoud/s320/PXL_20230125_091326868.jpg)
 
 不過小狐熊也真坐得住，竟然一連看了好幾本書。
 我擅自地把「小狐熊愛看書」這個現象當作一種對我的肯定。因為書是死的，說書人是活的。唯有當說書人說得好，聽書人才會變成愛書人。小狐熊覺得看書有趣，我就當作是因為日常親子共讀時，我對書本的演繹打動了他們的心。在我一讀再讀之間，就帶著小狐熊將手上的書細細讀出一種況味、與狐熊一起領略書中樂趣。而且在小狐熊週記裡最常出現的主題，就是親子共讀，可見我們花了多少時間在讀書上。
@@ -37,6 +37,6 @@ url: "/2023/01/20230130-entertainment-beyond-shopping.html"
 --
 前幾天帶小狐熊去士林科教館，我們三個才參觀不到半層樓，就在一個角落停了下來。而且在這邊一待就待到了閉館時間。
 因為這裡放了很多童書。
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWHGAS2Dsz5IyxIGC6LLYM53sgrEhoRPfOiBvKShFte7Jo9jRZ7rt3QWrVr2vvjs01I8JkUlRc5v_Bi6NnNdohURi-CbF9sj4CN328q8IMPoDr7y98heZxR-WRhdh-7h-TdNZdXn_gJ9FUNQoh87PZggdDUMT9v34oxEL1EgzH322tlTe0nxV8gO6l/s320/PXL_20230128_081411597.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWHGAS2Dsz5IyxIGC6LLYM53sgrEhoRPfOiBvKShFte7Jo9jRZ7rt3QWrVr2vvjs01I8JkUlRc5v_Bi6NnNdohURi-CbF9sj4CN328q8IMPoDr7y98heZxR-WRhdh-7h-TdNZdXn_gJ9FUNQoh87PZggdDUMT9v34oxEL1EgzH322tlTe0nxV8gO6l/s320/PXL_20230128_081411597.jpg)
 
 

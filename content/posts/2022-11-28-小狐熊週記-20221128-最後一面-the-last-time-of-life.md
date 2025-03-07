@@ -11,7 +11,7 @@ url: "/2022/11/20221128-last-time-of-life.html"
 酒駕車輛，不會等到問清楚這個用路人是多少情感性命之所繫之後才撞下去。隨機殺人，也不會等評估完俎上魚肉可恨還是可愛之後才把刀劃下去。
 在這些人禍天災、天災人禍面前，我們一律平等。再強大的肉身，都抵受不住這麼不經意的一擊。
 --
-與人生的博鬥就像是格鬥比賽一樣。要一邊防禦如雨點般落下的攻勢，一邊尋隙揮出反擊之拳。有時候防禦沒擋好，被人生重擊了頭部，難免頭昏眼花。有時候大意了沒有閃，被人生撂倒在地，久久難以爬起。![]($https://blogger.googleusercontent.com/img/a/AVvXsEgkW1fEbpthvHyH-wFltyme-uSe-OFzgjLhW852MNeNGpCh_d90ETbKurunoFK3KFCCGraXP6qV9EaOHBUFaq86iq2K98aUlzgcw3o9sNUeQp1FCKGIIskuQpvMtiVgbt_Nn1vwLr9gNGACUgl4pR8yIzKGfnRxnGrnYIq2OrWA0MarHs_aq4MilO6R)
+與人生的博鬥就像是格鬥比賽一樣。要一邊防禦如雨點般落下的攻勢，一邊尋隙揮出反擊之拳。有時候防禦沒擋好，被人生重擊了頭部，難免頭昏眼花。有時候大意了沒有閃，被人生撂倒在地，久久難以爬起。![](https://blogger.googleusercontent.com/img/a/AVvXsEgkW1fEbpthvHyH-wFltyme-uSe-OFzgjLhW852MNeNGpCh_d90ETbKurunoFK3KFCCGraXP6qV9EaOHBUFaq86iq2K98aUlzgcw3o9sNUeQp1FCKGIIskuQpvMtiVgbt_Nn1vwLr9gNGACUgl4pR8yIzKGfnRxnGrnYIq2OrWA0MarHs_aq4MilO6R)
 
 個人支身戰鬥已是萬難，在有了孩子後，孩子不只是心中最軟的一塊。同時也是曝露在身外最軟的一塊。在與人生格鬥時，要保護的弱點頓時多了一塊，處境更加艱難。
 例如原本面對人生對我們使出「重感冒」招數時，即使再怎麼不舒服，可能都難以打退我們焚膏繼晷工作的決心。但現在只要身上最軟的一塊被個「小發燒」打中，我們馬上就得跟老闆與同事說聲不好意思，臨時需要請個假……
@@ -35,6 +35,6 @@ url: "/2022/11/20221128-last-time-of-life.html"
 不管發生在何時，鬧脾氣都是彼此關係中的一件遺憾事。並不會因為是發生在永別前夕就特別不遺憾或特別遺憾。而是一如往常的鬧脾氣一樣，一樣遺憾。
 在過去幾年，小狐熊和我已經盡可能地拉高彼此關係的質量了。當然不盡完美，但當能說聲無愧。無論哪天人生猛然收尾時收得漂不漂亮，都無從抹殺過去這幾年共同創造的價值。
 人生如戲，我們不知道會不會演到某一集突然發現這就是最後一集。但我們追求的不是最後一幕陡然拔高的感人歡樂大結局，而是在日常生活的每一集那紮紮實實彼此相愛的關係。
-![]($https://blogger.googleusercontent.com/img/a/AVvXsEiU1_Kvak2LAWvsejVgc-MU_aRYh2Z1pllMzhzBnoEc3FrXlnQ_35nCgS4OA46Qw31Vu7ZyppalexFMPxl9EuZAc-slrpjH9GN1-EpZx9qFgH5sYoML9mVvsGZQnbWeLdSd1CZPFMX2btnxvy9NU7z3E9sd8F2M4y2tvsAn916UNqAraLb2qQVcn2r6=w400-h228)
+![](https://blogger.googleusercontent.com/img/a/AVvXsEiU1_Kvak2LAWvsejVgc-MU_aRYh2Z1pllMzhzBnoEc3FrXlnQ_35nCgS4OA46Qw31Vu7ZyppalexFMPxl9EuZAc-slrpjH9GN1-EpZx9qFgH5sYoML9mVvsGZQnbWeLdSd1CZPFMX2btnxvy9NU7z3E9sd8F2M4y2tvsAn916UNqAraLb2qQVcn2r6=w400-h228)
 
 

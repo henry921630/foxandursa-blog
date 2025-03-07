@@ -12,7 +12,7 @@ url: "/2023/04/20230403-destroyed-from-lack-of.html"
 匱乏的相反就是寬鬆。為子女營造一個寬鬆環境的責任，理當在父母身上。讀了這本書後，我時時警惕自己要保持在一個「寬鬆」的狀態。除了為了自己，也是為了家人。自從讀了這本書，我不但時時分享我對於「寬鬆」的體悟給狐熊媽媽，同時我也更多地放寬心，不時地交由狐熊媽媽來成為我們家的「寬鬆擔當」。
 例如當小狐熊忙著負責收拾玩具、我忙著負責收拾餐桌的時候，此時的狐熊媽媽就是負責讓我們家的勞動力處於「寬鬆」的狀態！
 因為「對任何一個組織而言，留一定的餘閒都很重要，它不是對資源的浪費，而是讓系統更加高效地運轉。」 -- Sendhil Mullainathan.(補充說明：狐熊媽媽大多時間都是非常忙碌的，並不總是能勝任寬鬆擔當的角色。)
-《為什麼要睡覺？》-- 5.5星好評推薦！![]($https://blogger.googleusercontent.com/img/proxy/AVvXsEg437mxTXCyFEWkWvjH8NI5rPiKO7hD7DjZfCQOVmhA5u5rijSngVlsL6pCe2Cx4CZ5yj_Xih88yEIEoVVx3vBBRpPDTznR7JBg5fIo0Wg8jXlpB5vlMN96ToI7sfabHpika8KXZIDX4X7kqadGn9Kvl2KceiDv-a7DObPsVBmaDpWUy2aeEBcxCuYti15jZ1DsWxO7MsxX5M72KTiiGmxjzYuj4VeK0vWO=s0-d-e1-ft)我一直以來的其中一個座右銘版本就是：好好吃飯、好好睡覺、好好運動。但一直到我讀了這本《為什麼要睡覺？》之後，對於「好好睡覺」這一項的體悟才變得深刻且立體。
+《為什麼要睡覺？》-- 5.5星好評推薦！![](https://blogger.googleusercontent.com/img/proxy/AVvXsEg437mxTXCyFEWkWvjH8NI5rPiKO7hD7DjZfCQOVmhA5u5rijSngVlsL6pCe2Cx4CZ5yj_Xih88yEIEoVVx3vBBRpPDTznR7JBg5fIo0Wg8jXlpB5vlMN96ToI7sfabHpika8KXZIDX4X7kqadGn9Kvl2KceiDv-a7DObPsVBmaDpWUy2aeEBcxCuYti15jZ1DsWxO7MsxX5M72KTiiGmxjzYuj4VeK0vWO=s0-d-e1-ft)我一直以來的其中一個座右銘版本就是：好好吃飯、好好睡覺、好好運動。但一直到我讀了這本《為什麼要睡覺？》之後，對於「好好睡覺」這一項的體悟才變得深刻且立體。
 好好睡覺真的真的太重要了！而且是身心靈全方位的那般重要。這甚至不只是影響自己、而是會影響周遭他人的那般重要。我自認為是一個很努力的人，我從早到晚努力學習、努力工作、努力思考。但我從來不知道：我白天有多努力工作，晚上就該多努力睡覺。因為睡覺更是一件超有生產力的事情！好好睡覺，對大人小孩都超級重要。充滿智慧的狐熊媽媽打從小狐熊一出生就非常重視小狐熊的睡覺時間。我之前都只是被動配合作息時間，但並沒有意識到睡覺的重要性。我現在知錯了。好好睡覺可以讓一個普通學生看起來變聰明；沒有好好睡覺則會顯得智能不足……
 好好睡覺可以讓孩童情緒正常又穩定，而一個正常的孩童若是沒有好好睡覺，將容易被診斷為過動兒……對父母而言更應該好好睡覺。睡眠的充足與否直接就影響了教養品質。教養孩子已是又難又苦的事情，一個無法好好睡覺的父母，勢必更難表現出愛心耐心，也更難堅持做出正確的教養決策。
 很多人在面臨無法和孩子好好相處、覺得挫敗的時候，會試著去學習各式各樣的溝通技巧與教養技巧。但很多問題其實就只要父母和孩子都好好睡上幾覺就可以解決了。

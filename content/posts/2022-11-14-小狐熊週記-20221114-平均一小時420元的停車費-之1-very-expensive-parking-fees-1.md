@@ -12,7 +12,7 @@ url: "/2022/11/20221114-420-1-very-expensive-parking.html"
 平常都沒什麼問題。在太平時期，人人都可以輕易地當一個優雅守法的好父母好公民。但是當風雨來臨之時，就是考驗人心的時刻了。
 小風小雨不足懼，我們羊狐熊三人仍會頂著風雨，邁開步伐走這五百公尺上學去。但是如果風雨大到一個地步是走不到100公尺就會濕透鞋子衣服，我就會考慮直接把車開到幼兒園附近。
 我觀察過幾種別人的停法：1. 直接暫停在幼兒園正門口，閃個雙黃燈2. 暫停在幼兒園後巷，閃個雙黃燈
-閃雙黃燈是一定要的，畢竟大家都知道雙黃燈的妙用：![]($https://blogger.googleusercontent.com/img/a/AVvXsEgsgnUlFbk7qhffiS0gwZh4lrChRlHhcpXipqOgT8rWORPdZppLTFEpx8U0IvPKbQrh461X6TAsE4O1LfD6XSp_sUmAjeninnicEpgtUcXbW9zN9FzUfAuIRfjMFMmotbObWEBM0Jc76aClLE4I6T2fgR6Kn3og-g7ANNeYMwY8oTvS6Sd7YSUZUhq_=w290-h400)![]($https://blogger.googleusercontent.com/img/a/AVvXsEhqFtfQOOBwT2qi7devsC8Mxb2IR24WoNUfxFOGSSs33MrP6uJUMAKqI0bj1BORIJcZOs_K0j0eXk3-PQJHZY17DwA7NjPJZHXqN6hwqjyGMTaLKoGFw2GJ8pkjeAUQL-WdcrEg92J33Pm9DNlj5uF7NjeQdjiZvVJSvLLu37-Cz2o5FPPd4wJXwD46=w320-h320)
+閃雙黃燈是一定要的，畢竟大家都知道雙黃燈的妙用：![](https://blogger.googleusercontent.com/img/a/AVvXsEgsgnUlFbk7qhffiS0gwZh4lrChRlHhcpXipqOgT8rWORPdZppLTFEpx8U0IvPKbQrh461X6TAsE4O1LfD6XSp_sUmAjeninnicEpgtUcXbW9zN9FzUfAuIRfjMFMmotbObWEBM0Jc76aClLE4I6T2fgR6Kn3og-g7ANNeYMwY8oTvS6Sd7YSUZUhq_=w290-h400)![](https://blogger.googleusercontent.com/img/a/AVvXsEhqFtfQOOBwT2qi7devsC8Mxb2IR24WoNUfxFOGSSs33MrP6uJUMAKqI0bj1BORIJcZOs_K0j0eXk3-PQJHZY17DwA7NjPJZHXqN6hwqjyGMTaLKoGFw2GJ8pkjeAUQL-WdcrEg92J33Pm9DNlj5uF7NjeQdjiZvVJSvLLu37-Cz2o5FPPd4wJXwD46=w320-h320)
 
 而我們家一直以來採用的停法，是我不曾看過別人使用的第三種：
 (下篇接續 平均一小時420元的停車費 之2 )

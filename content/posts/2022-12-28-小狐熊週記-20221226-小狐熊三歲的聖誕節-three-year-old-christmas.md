@@ -33,5 +33,5 @@ url: "/2022/12/20221226-three-year-old-christmas.html"
 因為小狐今天早上惹怒媽媽後，心靈遭受猛爆性的衝擊，一路哭哭、難以安撫，我們只好先花時間處理這個議題。沒關係，反正總有機會說，而且我應該會說很多次～
 –
 直接戳破沒有聖誕老人的這件事，會很不浪漫嗎？才不，我覺得我比這個一年才出現一次的老頭子浪漫多了。
-![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYunSX56OjngA2seO3Ky2wT3yMrGl3GUhZDU3LKo8lsnRWb7Zfo24vIhWcKoaLqZXHsEXjinNrrxjEQheM6pK1ZPJ8znsNHb2zbyahFD5N_L64Fy234xoxQ9H2LUJr-gMDWFWTBwkamf_fdsfwSJvw31Z37wayQDB-FIWOhX_TO7Ct2LLoAMpBUVHl/s320/PXL_20221225_005154696.MP.jpg)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYunSX56OjngA2seO3Ky2wT3yMrGl3GUhZDU3LKo8lsnRWb7Zfo24vIhWcKoaLqZXHsEXjinNrrxjEQheM6pK1ZPJ8znsNHb2zbyahFD5N_L64Fy234xoxQ9H2LUJr-gMDWFWTBwkamf_fdsfwSJvw31Z37wayQDB-FIWOhX_TO7Ct2LLoAMpBUVHl/s320/PXL_20221225_005154696.MP.jpg)
 

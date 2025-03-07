@@ -11,6 +11,6 @@ url: "/2022/11/20221114-420-3-very-expensive-parking.html"
 我慣停的這個昂貴車位無論睛雨、幾乎是常保淨空，即使附近違停者眾，我也沒有搶不到位置過。看著那些違規停車的人，我總是心想他們背後一定都有某些理由吧。例如他的生意可能一秒幾十萬上下，他寧可付給每一個人過路人$2000，也不願意把時間花在好好停車。假設這位違規者真心樂意付每人$2000，而且每個過路人也都樂意接受這$2000的補償，那我就會說這個違規是一個有效率的決策。即便這個補償交易沒有付諸實現，這仍無損於它是一個有效率的違規。交易實現與否，只涉及財富轉移，無干價值總和高低。
 關於違停造成的價值損失，一般人的心裡通常不會考慮到這許多。所以從效率的觀點來說，我是極度支持檢舉並開罰的。只要將外部成本內部化，就可以省下多數人思考的精力，並幫助每個人做出更有效率的決策。一般人從此不再需要考慮有多少其它的用路人會被影響、影響程度有多嚴重，只需要思考繳這筆罰單值不值得即可。
 不可否認的是，檢舉制度與罰單制度仍有許多不足之處，仍難稱為一個高效率的做法。但我認為或多或少對於促進社會效率有些幫助。
-常看到有人對於頻遭檢舉不堪其擾，在此提供網路上的反制檢舉小秘方：![]($https://blogger.googleusercontent.com/img/a/AVvXsEhDG8f7_MX9cl6CFqDjaqYGoxNw7MTQYTMwe0wIwKMmy5a4P11EOotHHagYRjr7smyqaKuaSe3OzcFxlYpBtHOqGyjHcIPpFLQFkzjbYeARTjpdgaVuWFJKNOMMs4gCQz9dQSwvc5GMWFg0fomQ21cNkwQt2oAvqBP-sp43Df64Iav3ywTVRQIs4u-5=w398-h400)
+常看到有人對於頻遭檢舉不堪其擾，在此提供網路上的反制檢舉小秘方：![](https://blogger.googleusercontent.com/img/a/AVvXsEhDG8f7_MX9cl6CFqDjaqYGoxNw7MTQYTMwe0wIwKMmy5a4P11EOotHHagYRjr7smyqaKuaSe3OzcFxlYpBtHOqGyjHcIPpFLQFkzjbYeARTjpdgaVuWFJKNOMMs4gCQz9dQSwvc5GMWFg0fomQ21cNkwQt2oAvqBP-sp43Df64Iav3ywTVRQIs4u-5=w398-h400)
 
 (下篇接續 平均一小時420元的停車費 之4 )
