@@ -6,20 +6,21 @@ paginate = 10
 
 [params]
   # 首頁配置
-  homeInfoParams = {
-    Title = "小狐熊部落格",
+  [params.homeInfoParams]
+    Title = "小狐熊部落格"
     Content = """
       歡迎來到小狐熊的部落格！
 
       - 這裡分享育兒、生活和其他有趣的內容
     """
-  }
 
   # 社群圖示
-  socialIcons = [
-    { name = "github", url = "https://github.com/yourusername" },
-    { name = "twitter", url = "https://twitter.com/yourusername" }
-  ]
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/yourusername"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/yourusername"
     
   # 顯示文章摘要
   showSummary = true
