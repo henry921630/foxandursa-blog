@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230501 把握開發自動化的當下 Seize the pres
 date: 2023-05-02T18:08:00+0800
 draft: false
 url: "/2023/05/20230501-seize-present-moment-of.html"
+tags: ['把握當下', '自動化', '小狐熊週記']
 ---
 
 小狐熊本週即將四歲囉！

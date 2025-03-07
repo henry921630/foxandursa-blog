@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20240422 成長與共：與小狐熊共度的挑戰與
 date: 2024-04-22T23:37:00+0800
 draft: false
 url: "/2024/04/20240422-growing-together-challenges.html"
+tags: ['一打二', '小狐熊週記']
 ---
 
 與好友小狐熊的同行樂趣

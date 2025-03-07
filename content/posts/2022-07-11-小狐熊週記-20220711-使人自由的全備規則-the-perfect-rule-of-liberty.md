@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220711 使人自由的全備規則 The Perfect Rule 
 date: 2022-07-11T22:51:00+0800
 draft: false
 url: "/2022/07/20220711-perfect-law-of-liberty.html"
+tags: ['規則', '小狐熊週記']
 ---
 
  我一向不喜歡評論是非，我既沒有資格、也沒有能力論斷。但我很喜歡提出問題。

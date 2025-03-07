@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220822 爸爸陪讀的孩子，成績表現比較好
 date: 2022-08-22T12:57:00+0800
 draft: false
 url: "/2022/08/20220822-fathers-talking-and-reading.html"
+tags: ['親子共讀', '小狐熊週記']
 ---
 
 

@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20231127 不會被抓到的高明作弊手法 A clever
 date: 2023-11-27T22:53:00+0800
 draft: false
 url: "/2023/11/20231127-clever-way-to-cheat-without.html"
+tags: ['後設學習', '記憶', '魔術', '小狐熊週記', '刻意練習']
 ---
 
  

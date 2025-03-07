@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230213 小狐熊可支配所得暴漲一倍 Disposab
 date: 2023-02-13T23:00:00+0800
 draft: false
 url: "/2023/02/20230213-disposable-income-doubled.html"
+tags: ['Unconditional Basic Income', '圖書館', 'Disposable Income', 'UBI', 'TSUTAYA', '蔦屋書店']
 ---
 
 昨天帶著小狐熊去逛了南港 citylink 的蔦屋書店，裡面有一區兒童閱讀區，有點類似放大版的UNIQLO兒童區。就是上週週記 [小狐熊週記] 20230130 超越逛街購物的娛樂 提到的這個 UNIQLO 兒童區只是蔦屋書店的書比 UNIQLO 更多、空間更大、待起來更加舒服。非常適合在此消磨幾個小時。

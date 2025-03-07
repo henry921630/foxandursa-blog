@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20231106 平均一小時0元的停車費 Average parki
 date: 2023-11-06T23:15:00+0800
 draft: false
 url: "/2023/11/20231106-0-average-parking-fee-of-0-per.html"
+tags: ['自然後果', '停車費', '經濟學', '小狐熊週記']
 ---
 
  

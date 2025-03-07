@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20231120 平均而言，養育小孩還是蠻開心的
 date: 2023-11-21T08:51:00+0800
 draft: false
 url: "/2023/11/20231120-on-average-raising-children-is.html"
+tags: ['小狐熊週記']
 ---
 
  平均而言，養育小狐熊還是蠻開心的。

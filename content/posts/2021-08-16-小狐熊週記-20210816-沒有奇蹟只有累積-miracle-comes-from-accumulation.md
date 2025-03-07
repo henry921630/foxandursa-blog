@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20210816 沒有奇蹟只有累積 miracle comes from a
 date: 2021-08-16T08:36:00+0800
 draft: false
 url: "/2021/08/20210816-miracle-comes-from-accumulation.html"
+tags: ['比賽', '帕可好愛歌劇院', '帕可好愛爵士樂', 'PACO', '小狐熊週記']
 ---
 
  今天給各位講講一個幼兒如何在夜半時分捧著書勤讀不輟，並在競賽上屢屢擊敗全場對手獲得第一名的故事。

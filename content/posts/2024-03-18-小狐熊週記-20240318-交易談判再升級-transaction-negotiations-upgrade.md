@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20240318 交易談判再升級 Transaction Negotiation
 date: 2024-03-18T23:06:00+0800
 draft: false
 url: "/2024/03/20240318-transaction-negotiations.html"
+tags: ['談判', '消費者剩餘', '社會福祉', '寇斯定理', 'Coase theorem', '小狐熊週記']
 ---
 
  █ 每週都在苦惱週記要寫什麼

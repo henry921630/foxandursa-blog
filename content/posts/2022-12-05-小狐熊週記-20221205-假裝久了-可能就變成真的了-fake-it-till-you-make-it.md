@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20221205 假裝久了 可能就變成真的了 Fake it
 date: 2022-12-05T23:58:00+0800
 draft: false
 url: "/2022/12/20221205-fake-it-till-you-make-it.html"
+tags: ['聰明', '假裝', '小狐熊週記']
 ---
 
 

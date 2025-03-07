@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220228 美感素養從小地方做起/MECE (Mutually
 date: 2022-02-28T23:03:00+0800
 draft: false
 url: "/2022/02/20220228-mece-mutually-exclusive.html"
+tags: ['邏輯思考', '小狐熊週記', 'MECE']
 ---
 
  有一天，小熊咚咚咚地跑來說：「爸爸，我想要拿白板筆畫畫～」

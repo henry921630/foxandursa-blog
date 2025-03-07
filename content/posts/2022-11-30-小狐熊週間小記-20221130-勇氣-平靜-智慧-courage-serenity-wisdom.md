@@ -3,6 +3,7 @@ title: "[小狐熊週間小記] 20221130  勇氣 平靜 智慧 Courage Serenity 
 date: 2022-11-30T18:31:00+0800
 draft: false
 url: "/2022/11/20221130-courage-serenity-wisdom.html"
+tags: ['生氣', '智慧', '小狐熊週間小記', '非小狐熊週記', '勇氣', '平靜', '解決心情']
 ---
 
 

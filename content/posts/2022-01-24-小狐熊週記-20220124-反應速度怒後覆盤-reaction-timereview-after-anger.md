@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220124 反應速度/怒後覆盤  Reaction Time/Revi
 date: 2022-01-24T22:01:00+0800
 draft: false
 url: "/2022/01/20220124-reaction-timereview-after-anger.html"
+tags: ['生氣', '小狐熊週記']
 ---
 
 昨天心情很不好，因為小狐一直惹我生氣。

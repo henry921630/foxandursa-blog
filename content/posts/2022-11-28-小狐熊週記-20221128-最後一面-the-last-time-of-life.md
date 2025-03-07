@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20221128 最後一面 The Last Time of Life"
 date: 2022-11-28T23:48:00+0800
 draft: false
 url: "/2022/11/20221128-last-time-of-life.html"
+tags: ['小狐熊週記']
 ---
 
 我常常在送小狐熊上學的時候，都在想著，這段上學的路程，會不會就是我們的最後一次相處了。

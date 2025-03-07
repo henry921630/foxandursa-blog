@@ -3,6 +3,7 @@ title: "[轉貼] 洛克菲勒寫給兒子的一封信 Rockefeller writes to his 
 date: 2023-03-26T22:40:00+0800
 draft: false
 url: "/2023/03/rockefeller-writes-to-his-son-heaven-is.html"
+tags: ['洛克菲勒', 'Rockefeller', '工作', '寓言']
 ---
 
  親愛的約翰：

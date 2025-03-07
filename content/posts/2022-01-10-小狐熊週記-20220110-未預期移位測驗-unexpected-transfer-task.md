@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220110  未預期移位測驗 Unexpected Transfer Ta
 date: 2022-01-10T21:34:00+0800
 draft: false
 url: "/2022/01/20220110-unexpected-transfer-task.html"
+tags: ['Unexpected Transfer Task', '心理學', '未預期移位測驗', '小狐熊週記']
 ---
 
 本週的小狐熊睡前共讀時光，我們新增了一個小小的活動，就是「未預期移位測驗(unexpected transfer task)」這是一個用來評估幼兒心智發展的測驗。

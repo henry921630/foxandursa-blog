@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230116 偏好的遞移性 Transitivity of preference
 date: 2023-01-16T23:50:00+0800
 draft: false
 url: "/2023/01/20230116-transitivity-of-preferences.html"
+tags: ['經濟學', '遞移性', '偏好', '小狐熊週記']
 ---
 
 當別人跟你說A大於B 且 B大於C的時候，你是否還會再問 「A是否大於C呢？」

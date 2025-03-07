@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220829 UBI 小狐熊無條件基本收入 Unconditio
 date: 2022-08-29T23:36:00+0800
 draft: false
 url: "/2022/08/20220829-ubi-unconditional-basic-income.html"
+tags: ['Unconditional Basic Income', '經濟學', 'UBI', '小狐熊週記', '無條件基本收入']
 ---
 
 # 小狐熊週記 20220829 UBI 小狐熊無條件基本收入 Unconditional Basic Income

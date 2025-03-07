@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230102 半年看一百本書 Read 100 books in half 
 date: 2023-01-02T23:45:00+0800
 draft: false
 url: "/2023/01/20230102-read-100-books-in-half-year.html"
+tags: ['親子共讀', '圖書館', '小狐熊週記']
 ---
 
 

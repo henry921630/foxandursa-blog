@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230522 機器小熊與後設小狐 Bot Bear and Meta
 date: 2023-05-22T22:56:00+0800
 draft: false
 url: "/2023/05/20230522-bot-bear-and-meta-fox.html"
+tags: ['學習', '自動化', '後設學習', '機器人', '小狐熊週記']
 ---
 
  

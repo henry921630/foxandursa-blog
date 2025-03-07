@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20231022 假裝成正常人 Pretend to be a normal per
 date: 2023-10-23T23:18:00+0800
 draft: false
 url: "/2023/10/20231022-pretend-to-be-normal-person.html"
+tags: ['遲緩', '假裝', '小狐熊週記']
 ---
 
  

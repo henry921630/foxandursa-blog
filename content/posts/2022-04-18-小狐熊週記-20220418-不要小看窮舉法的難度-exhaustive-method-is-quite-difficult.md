@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20220418 不要小看窮舉法的難度 Exhaustive met
 date: 2022-04-18T21:55:00+0800
 draft: false
 url: "/2022/04/20220418-exhaustive-method-is-quite.html"
+tags: ['邏輯思考', '小狐熊週記']
 ---
 
 之前曾經在小狐熊週記裡分享過MECE的思考技巧(mutually exclusive collectively exhaustive)，今天來談一個更加基本的思考方法：窮舉法。窮舉法，顧名思義就是窮盡所有可能性、通通舉列出來。簡單粗暴。

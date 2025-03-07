@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230403 我的民因無知識而滅亡 Destroyed from
 date: 2023-04-04T14:27:00+0800
 draft: false
 url: "/2023/04/20230403-destroyed-from-lack-of.html"
+tags: ['匱乏經濟學', '求生之書', '讀書心得', '為什麼要睡覺', '小狐熊週記']
 ---
 
  最近讀了好幾本好書

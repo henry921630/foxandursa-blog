@@ -3,6 +3,7 @@ title: "[小狐熊週記] 20230227 如何預防被自己的兒女所殺 How to p
 date: 2023-02-27T23:43:00+0800
 draft: false
 url: "/2023/02/20230227-how-to-prevent-being-killed-by.html"
+tags: ['求生之書', '恐懼', '暴力', '小狐熊週記']
 ---
 
 
