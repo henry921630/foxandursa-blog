@@ -2,3 +2,42 @@ baseURL = 'https://henry921630.github.io/foxandursa-blog/'
 languageCode = 'zh-tw'
 title = '小狐熊週記'
 theme = 'PaperMod'
+paginate = 10
+
+[params]
+  # 首頁配置
+  homeInfoParams:
+    Title: "小狐熊部落格"
+    Content: >
+      歡迎來到小狐熊的部落格！
+
+      - 這裡分享育兒、生活和其他有趣的內容
+
+  # 社群圖示
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername"
+    - name: twitter
+      url: "https://twitter.com/yourusername"
+    
+  # 顯示文章摘要
+  showSummary: true
+  
+  # 顯示閱讀時間
+  showReadingTime: true
+  
+  # 顯示目錄
+  showToc: true
+  
+  # 顯示麵包屑導航
+  showBreadCrumbs: true
+  
+  # 顯示分類
+  showPostNavLinks: true
+  
+  # 顯示程式碼複製按鈕
+  showCodeCopyButtons: true
+  
+  # 首頁模式: "home", "posts" 或 "custom"
+  homeLayout: "home"  # 使用帶有個人資料的首頁
+  # homeLayout: "posts"  # 直接顯示文章列表
