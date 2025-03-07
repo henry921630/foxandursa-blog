@@ -2,7 +2,7 @@
 title: "[非小狐熊週記] 小狐熊週記之寫作心得 The writing experience of Fox and Ursa Weekly"
 date: 2022-10-14T20:00:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/10/writing-experience-of-fox-and-ursa-weekly.html"
+url: "/2022/10/writing-experience-of-fox-and-ursa-weekly.html"
 ---
 
 2021年7月26日星期一，我開始寫起了小狐熊週記。一年多來，沒有一週間斷過。至今累積了八萬餘字。

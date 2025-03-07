@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231204 傳幾張好牌給下一代，極大化人生的淨現值   Pass a few good cards to the next generation and maximize the net present value of life"
 date: 2023-12-04T23:24:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/12/20231204-pass-few-good-cards-to-next.html"
+url: "/2023/12/20231204-pass-few-good-cards-to-next.html"
 ---
 
 

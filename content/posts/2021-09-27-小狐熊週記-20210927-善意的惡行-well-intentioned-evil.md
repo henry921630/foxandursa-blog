@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210927 善意的惡行 Well-intentioned Evil"
 date: 2021-09-27T23:27:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/09/20210927-well-intentioned-evil.html"
+url: "/2021/09/20210927-well-intentioned-evil.html"
 ---
 
 日前狐熊一家去公園，玩著我丟你撿的遊戲：

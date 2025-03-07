@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20240513 最難忘的母親節 The most unforgettable Mother's Day"
 date: 2024-05-14T21:42:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/05/20240513-most-unforgettable-mothers-day.html"
+url: "/2024/05/20240513-most-unforgettable-mothers-day.html"
 ---
 
  昨天中午我趁著小狐熊在家上英文課的時間，

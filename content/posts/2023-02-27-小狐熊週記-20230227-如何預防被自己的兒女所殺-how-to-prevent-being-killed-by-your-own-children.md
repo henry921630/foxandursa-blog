@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230227 如何預防被自己的兒女所殺 How to prevent being killed by your own children"
 date: 2023-02-27T23:43:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/02/20230227-how-to-prevent-being-killed-by.html"
+url: "/2023/02/20230227-how-to-prevent-being-killed-by.html"
 ---
 
 

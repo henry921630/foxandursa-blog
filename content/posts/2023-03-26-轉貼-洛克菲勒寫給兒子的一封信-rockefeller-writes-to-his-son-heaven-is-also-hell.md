@@ -2,7 +2,7 @@
 title: "[轉貼] 洛克菲勒寫給兒子的一封信 Rockefeller writes to his son: heaven is also hell"
 date: 2023-03-26T22:40:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/03/rockefeller-writes-to-his-son-heaven-is.html"
+url: "/2023/03/rockefeller-writes-to-his-son-heaven-is.html"
 ---
 
  親愛的約翰：

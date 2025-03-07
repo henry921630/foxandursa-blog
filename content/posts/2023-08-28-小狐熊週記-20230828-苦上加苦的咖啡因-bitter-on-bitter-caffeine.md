@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230828 苦上加苦的咖啡因 Bitter on Bitter Caffeine"
 date: 2023-08-28T22:42:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/08/20230828-bitter-on-bitter-caffeine.html"
+url: "/2023/08/20230828-bitter-on-bitter-caffeine.html"
 ---
 
  

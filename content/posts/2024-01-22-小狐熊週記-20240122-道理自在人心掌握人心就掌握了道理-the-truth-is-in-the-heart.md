@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20240122 道理自在人心，掌握人心就掌握了道理(？)   / The truth is in the heart"
 date: 2024-01-22T23:52:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/01/20240122-truth-is-in-heart.html"
+url: "/2024/01/20240122-truth-is-in-heart.html"
 ---
 
  延續上一週「吵鬧偵測器」的話題。

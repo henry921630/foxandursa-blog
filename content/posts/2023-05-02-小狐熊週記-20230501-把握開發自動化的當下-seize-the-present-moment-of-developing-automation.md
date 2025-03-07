@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230501 把握開發自動化的當下 Seize the present moment of developing automation"
 date: 2023-05-02T18:08:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/05/20230501-seize-present-moment-of.html"
+url: "/2023/05/20230501-seize-present-moment-of.html"
 ---
 
 小狐熊本週即將四歲囉！

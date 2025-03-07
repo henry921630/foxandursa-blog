@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210906 小狐熊上學去 Fox and Ursa Go to School"
 date: 2021-09-06T08:19:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/09/20210906-fox-and-ursa-go-to-school.html"
+url: "/2021/09/20210906-fox-and-ursa-go-to-school.html"
 ---
 
 前言：

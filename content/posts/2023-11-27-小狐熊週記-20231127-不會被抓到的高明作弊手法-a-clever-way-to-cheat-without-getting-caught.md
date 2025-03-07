@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231127 不會被抓到的高明作弊手法 A clever way to cheat without getting caught"
 date: 2023-11-27T22:53:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/11/20231127-clever-way-to-cheat-without.html"
+url: "/2023/11/20231127-clever-way-to-cheat-without.html"
 ---
 
  

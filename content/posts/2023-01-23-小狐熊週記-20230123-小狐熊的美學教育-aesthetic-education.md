@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230123 小狐熊的美學教育 Aesthetic Education"
 date: 2023-01-23T23:36:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/01/20230123-aesthetic-education.html"
+url: "/2023/01/20230123-aesthetic-education.html"
 ---
 
 小狐熊經常穿著怪異的服裝上學、不但上半身下半身風格迥異，兩腳可能還穿著不同款的襪子。連我一個毫無美學品味的人都看得出來，這很奇怪。

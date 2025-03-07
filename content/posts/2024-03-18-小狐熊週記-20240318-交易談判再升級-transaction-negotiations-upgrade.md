@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20240318 交易談判再升級 Transaction Negotiations Upgrade"
 date: 2024-03-18T23:06:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/03/20240318-transaction-negotiations.html"
+url: "/2024/03/20240318-transaction-negotiations.html"
 ---
 
  █ 每週都在苦惱週記要寫什麼

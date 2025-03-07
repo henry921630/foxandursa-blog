@@ -2,7 +2,7 @@
 title: "[阿羊週記] 打球、打球、以及打球。Badminton, Badminton and Table Tennis"
 date: 2022-08-01T21:20:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/08/badminton-badminton-and-table-tennis.html"
+url: "/2022/08/badminton-badminton-and-table-tennis.html"
 ---
 
 

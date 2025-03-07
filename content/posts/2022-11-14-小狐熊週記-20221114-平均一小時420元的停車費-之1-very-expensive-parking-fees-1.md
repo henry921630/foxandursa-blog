@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20221114  平均一小時420元的停車費 之1  Very Expensive Parking Fees -1"
 date: 2022-11-14T23:35:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/11/20221114-420-1-very-expensive-parking.html"
+url: "/2022/11/20221114-420-1-very-expensive-parking.html"
 ---
 
 前言深深的話要淺淺的說。我已經按時寫好了本週完整的小狐熊週記。我覺得寫得很深刻(字數也很多XD)，所以我打算像連載一樣慢慢地發出。厚積而薄發是也。

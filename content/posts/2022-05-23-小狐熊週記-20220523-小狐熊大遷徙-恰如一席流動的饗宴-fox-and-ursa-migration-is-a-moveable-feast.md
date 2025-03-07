@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20220523 小狐熊大遷徙 恰如一席流動的饗宴      Fox and Ursa Migration is a Moveable Feast"
 date: 2022-05-23T22:53:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/05/20220523-fox-and-ursa-migration-is.html"
+url: "/2022/05/20220523-fox-and-ursa-migration-is.html"
 ---
 
 一靜後必有一動。繼上週小狐熊大隔離之後，即將迎來的是小狐熊大遷徙！小狐熊即將離開出生至今的棲地，向北方遷移十公里左右到達新居地。

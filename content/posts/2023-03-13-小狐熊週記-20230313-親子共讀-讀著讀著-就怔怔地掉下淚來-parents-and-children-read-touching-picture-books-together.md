@@ -2,7 +2,7 @@
 title: " [小狐熊週記] 20230313 親子共讀 讀著讀著 就怔怔地掉下淚來 Parents and children read touching picture books together"
 date: 2023-03-13T23:33:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/03/20230313-parents-and-children-read.html"
+url: "/2023/03/20230313-parents-and-children-read.html"
 ---
 
 我們家看的書幾乎全都是從圖書館借的，那我們都是怎麼挑要借什麼書的呢？ 一言以蔽之：借我自己想看的書。

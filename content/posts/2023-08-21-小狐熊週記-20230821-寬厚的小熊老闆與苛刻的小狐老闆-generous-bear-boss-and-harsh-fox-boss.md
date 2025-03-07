@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230821 寬厚的小熊老闆與苛刻的小狐老闆 Generous Bear Boss and Harsh Fox Boss"
 date: 2023-08-21T22:17:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/08/20230821-generous-bear-boss-and-harsh.html"
+url: "/2023/08/20230821-generous-bear-boss-and-harsh.html"
 ---
 
 

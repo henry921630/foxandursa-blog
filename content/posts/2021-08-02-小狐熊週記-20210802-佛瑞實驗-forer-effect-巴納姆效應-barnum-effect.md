@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210802 佛瑞實驗 Forer effect / 巴納姆效應  Barnum effect"
 date: 2021-08-02T08:46:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/08/20210802-forer-effect-barnum-effect.html"
+url: "/2021/08/20210802-forer-effect-barnum-effect.html"
 ---
 
 小狐熊同日出生，但性別各異，性情各異，行為各異。

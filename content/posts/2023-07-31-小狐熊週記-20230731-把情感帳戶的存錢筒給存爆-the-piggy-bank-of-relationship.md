@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230731 把情感帳戶的存錢筒給存爆！ the piggy bank of relationship"
 date: 2023-07-31T22:36:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/07/20230731-piggy-bank-of-relationship.html"
+url: "/2023/07/20230731-piggy-bank-of-relationship.html"
 ---
 
 本週是我跟小狐熊相處時數爆炸性增加的一週，其劇增的幅度大概就像 windows 版本直條圖中的 windows 2000 那般。

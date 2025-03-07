@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230612 這就是熱力學第二定律！   This is the second law of thermodynamics!"
 date: 2023-06-12T23:02:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/06/20230612-this-is-second-law-of.html"
+url: "/2023/06/20230612-this-is-second-law-of.html"
 ---
 
 阿羊：「為什麼地上玩具亂七八糟的呢？」

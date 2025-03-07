@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231211 沒那麼令人生氣的小狐  A less irritating Renard"
 date: 2023-12-12T19:12:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/12/20231211-less-irritating-renard.html"
+url: "/2023/12/20231211-less-irritating-renard.html"
 ---
 
 小狐和小熊的性格差異已經十分巨大了。其中一個很明顯的就是小狐特別會惹人生氣。

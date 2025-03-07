@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231106 平均一小時0元的停車費 Average parking fee of $0 per hour"
 date: 2023-11-06T23:15:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/11/20231106-0-average-parking-fee-of-0-per.html"
+url: "/2023/11/20231106-0-average-parking-fee-of-0-per.html"
 ---
 
  

@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20220718  從「毛毛兔」到「大野狼」，在兩本繪本間，發現既聰明且笨的自己。Induction and Deduction"
 date: 2022-07-18T22:42:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/07/20220718-induction-and-deduction.html"
+url: "/2022/07/20220718-induction-and-deduction.html"
 ---
 
 我是一個很依賴「定義」來進行理解的人，這使我常常留心於觀察對話中的各方，對彼此的用語定義是不是擁有一樣的理解 。同時這也使我培養出一個跟小狐熊交談時的習慣：在我使用了較少見的詞語後，勢必會補一句敘述來為這個詞語標明一個定義。

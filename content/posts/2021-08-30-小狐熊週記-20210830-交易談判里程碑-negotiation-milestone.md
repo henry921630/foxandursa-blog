@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210830 交易談判里程碑 Negotiation Milestone"
 date: 2021-08-30T08:28:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/08/20210830-negotiation-milestone.html"
+url: "/2021/08/20210830-negotiation-milestone.html"
 ---
 
 這是個監護人兼作調解委員會，成功排解糾紛，皆大歡喜的故事。

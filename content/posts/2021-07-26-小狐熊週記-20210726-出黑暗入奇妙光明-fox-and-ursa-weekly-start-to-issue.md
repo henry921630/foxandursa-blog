@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210726 出黑暗入奇妙光明 Fox and Ursa Weekly Start to Issue!"
 date: 2021-07-26T08:49:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/07/20210726-fox-and-ursa-weekly-start-to.html"
+url: "/2021/07/20210726-fox-and-ursa-weekly-start-to.html"
 ---
 
 小狐熊出生813天了。過去這幾百天，落下了一大段的記錄空窗，因為實在是太累了，無心也無力。

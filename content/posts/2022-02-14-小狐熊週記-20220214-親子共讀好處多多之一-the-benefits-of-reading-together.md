@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20220214 親子共讀好處多多之一  The benefits of Reading Together"
 date: 2022-02-14T21:27:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/02/20220214-benefits-of-reading-together.html"
+url: "/2022/02/20220214-benefits-of-reading-together.html"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230403 我的民因無知識而滅亡 Destroyed from Lack of Knowledge"
 date: 2023-04-04T14:27:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/04/20230403-destroyed-from-lack-of.html"
+url: "/2023/04/20230403-destroyed-from-lack-of.html"
 ---
 
  最近讀了好幾本好書

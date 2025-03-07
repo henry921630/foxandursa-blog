@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230220 地下經濟的地下經濟的地上化 The Above-ground Underground Economy of the Underground Economy"
 date: 2023-02-20T23:26:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/02/20230220-above-ground-underground.html"
+url: "/2023/02/20230220-above-ground-underground.html"
 ---
 
 ![]($https://blogger.googleusercontent.com/img/proxy/AVvXsEgeHCxuZpHPo8rjIKMn30-994ur2F_GeOn09-YLv9iYxgWecsiqVJOOuwjBVbYQquq-0RvYZoENk_-1yPt5s78jTjLa2QGBLFjRV6uyOYNXTZ87Vh2iBSMrfOrMeIddBw=s0-d-e1-ft)

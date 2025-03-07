@@ -2,7 +2,7 @@
 title: "[小狐熊週間小記] 20221130  勇氣 平靜 智慧 Courage Serenity Wisdom"
 date: 2022-11-30T18:31:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/11/20221130-courage-serenity-wisdom.html"
+url: "/2022/11/20221130-courage-serenity-wisdom.html"
 ---
 
 

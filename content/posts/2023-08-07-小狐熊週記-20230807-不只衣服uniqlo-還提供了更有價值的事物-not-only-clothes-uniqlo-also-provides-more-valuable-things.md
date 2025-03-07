@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230807 不只衣服，UNIQLO 還提供了更有價值的事物 Not only clothes, UNIQLO also provides more valuable things"
 date: 2023-08-07T22:37:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/08/httpswww.foxandursa.com20230820230807not-only-clothes-uniqlo-.html.html"
+url: "/2023/08/httpswww.foxandursa.com20230820230807not-only-clothes-uniqlo-.html.html"
 ---
 
 

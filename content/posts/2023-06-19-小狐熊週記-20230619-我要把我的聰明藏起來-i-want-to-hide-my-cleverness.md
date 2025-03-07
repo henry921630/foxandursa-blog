@@ -2,7 +2,7 @@
 title: " [小狐熊週記] 20230619 我要把我的聰明藏起來 I want to hide my cleverness"
 date: 2023-06-19T23:11:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/06/20230619-i-want-to-hide-my-cleverness.html"
+url: "/2023/06/20230619-i-want-to-hide-my-cleverness.html"
 ---
 
 某天小狐發現了一個新知，小狐說「我要跟小熊說，讓小熊去告訴學校其它人！」 我

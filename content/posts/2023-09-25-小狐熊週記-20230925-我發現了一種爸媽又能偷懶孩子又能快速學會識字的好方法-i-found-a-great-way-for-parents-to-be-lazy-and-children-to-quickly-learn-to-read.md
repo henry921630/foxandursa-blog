@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230925 我發現了一種爸媽又能偷懶、孩子又能快速學會識字的好方法 I found a great way for parents to be lazy and children to quickly learn to read."
 date: 2023-09-25T22:57:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/09/20230925-i-found-great-way-for-parents.html"
+url: "/2023/09/20230925-i-found-great-way-for-parents.html"
 ---
 
 我很會唸書，特別是唸中文。原則上書上寫什麼，我就唸什麼。

@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20220822 爸爸陪讀的孩子，成績表現比較好 Fathers talking and reading with their 3-year-olds during shared bookreading"
 date: 2022-08-22T12:57:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/08/20220822-fathers-talking-and-reading.html"
+url: "/2022/08/20220822-fathers-talking-and-reading.html"
 ---
 
 

@@ -2,7 +2,7 @@
 title: " [小狐熊週記] 20230515 稱讚與被稱讚都是需要練習的 Praising and being praised takes practice"
 date: 2023-05-16T21:32:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/05/20230515-praising-and-being-praised.html"
+url: "/2023/05/20230515-praising-and-being-praised.html"
 ---
 
  繼小狐熊上週作為五月壽星上台被慶生之後，本週母親節又有一個上台跳舞的機會。

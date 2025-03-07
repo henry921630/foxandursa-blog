@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20220131 本週停課！！！ School were Suspended this Week"
 date: 2022-01-31T23:25:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/01/20220131-school-were-suspended-this-week.html"
+url: "/2022/01/20220131-school-were-suspended-this-week.html"
 ---
 
 過年前這一週1/24-1/28，小狐熊幼兒園整週停課，直接銜接過年，狂放半個月寒假！

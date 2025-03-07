@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231030 寬鬆之美：借書的哲學與生活的體驗 The beauty of looseness: the philosophy of borrowing books and the experience of life"
 date: 2023-10-30T23:31:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/10/20231030-beauty-of-looseness-philosophy.html"
+url: "/2023/10/20231030-beauty-of-looseness-philosophy.html"
 ---
 
  我們家一直都在圖書館借書。最近的圖書吞吐量來到了一個高峰，每週都大量地借、也大量地還。 而借的書實在太多了，我們並沒有辦法每本都看完，甚至沒有每本都看。

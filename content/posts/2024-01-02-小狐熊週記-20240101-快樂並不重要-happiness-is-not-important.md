@@ -2,7 +2,7 @@
 title: " [小狐熊週記] 20240101 快樂並不重要  Happiness is not important"
 date: 2024-01-02T00:04:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/01/20240101-happiness-is-not-important.html"
+url: "/2024/01/20240101-happiness-is-not-important.html"
 ---
 
 大家 2024 新年快樂！

@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20221226 小狐熊三歲的聖誕節 Three-year-old Christmas"
 date: 2022-12-28T08:46:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/12/20221226-three-year-old-christmas.html"
+url: "/2022/12/20221226-three-year-old-christmas.html"
 ---
 
  並不是包裝成兒歌，就真的會適合兒童，所以我一向避免唱「虎姑婆」這首歌：「愛哭的孩子不要哭 他會咬你的小耳朵！不睡的孩子趕快睡 他會咬你的小指頭！」

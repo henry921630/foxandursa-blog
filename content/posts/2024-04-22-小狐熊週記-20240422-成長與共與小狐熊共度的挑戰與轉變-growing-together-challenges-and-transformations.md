@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20240422 成長與共：與小狐熊共度的挑戰與轉變  Growing together: challenges and transformations"
 date: 2024-04-22T23:37:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/04/20240422-growing-together-challenges.html"
+url: "/2024/04/20240422-growing-together-challenges.html"
 ---
 
 與好友小狐熊的同行樂趣

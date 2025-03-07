@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230918 非給新手爸媽的小建議  Not tips for new parents"
 date: 2023-09-18T23:00:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/09/20230918-not-tips-for-new-parents.html"
+url: "/2023/09/20230918-not-tips-for-new-parents.html"
 ---
 
 ![]($https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPgTsSTfX75ITGpknn5xh7sDgtgzY426Yc_jvDtfDyM3ckJv0Kz9C7wzfyLZbTQVAOdMLKgn7GnQutsjBIjQ3GlfMY_IciWoPaPK6_l8vPmIO92AjGeZUuxuUs42CZyY40j4EZR6VJG8LrQ-D3X-kYXdiz8yDeOZ_bEjcHWkofm2vIeX9CWSDhqEs4tYY/s320/PXL_20230914_043115190.jpg)

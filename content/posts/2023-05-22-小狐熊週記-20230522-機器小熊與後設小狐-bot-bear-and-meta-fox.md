@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230522 機器小熊與後設小狐 Bot Bear and Meta Fox"
 date: 2023-05-22T22:56:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/05/20230522-bot-bear-and-meta-fox.html"
+url: "/2023/05/20230522-bot-bear-and-meta-fox.html"
 ---
 
  

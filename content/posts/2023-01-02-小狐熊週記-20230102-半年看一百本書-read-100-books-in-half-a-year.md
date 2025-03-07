@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20230102 半年看一百本書 Read 100 books in half a year"
 date: 2023-01-02T23:45:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/01/20230102-read-100-books-in-half-year.html"
+url: "/2023/01/20230102-read-100-books-in-half-year.html"
 ---
 
 

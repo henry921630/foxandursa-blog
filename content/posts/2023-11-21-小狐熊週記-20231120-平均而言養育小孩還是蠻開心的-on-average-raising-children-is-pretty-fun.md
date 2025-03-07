@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231120 平均而言，養育小孩還是蠻開心的 On average, raising children is pretty fun."
 date: 2023-11-21T08:51:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/11/20231120-on-average-raising-children-is.html"
+url: "/2023/11/20231120-on-average-raising-children-is.html"
 ---
 
  平均而言，養育小狐熊還是蠻開心的。

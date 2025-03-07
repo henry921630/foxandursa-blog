@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20210823 一趟陽明山的完美旅程 A perfect trip to Yangmingshan"
 date: 2021-08-23T08:34:00+0800
 draft: false
-url: "https://www.foxandursa.com/2021/12/20210823-perfect-trip-to-yangmingshan.html"
+url: "/2021/12/20210823-perfect-trip-to-yangmingshan.html"
 ---
 
 什麼樣的旅程算是完美呢？

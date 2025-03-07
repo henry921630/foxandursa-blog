@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20231225 小狐熊拿到的聖誕禮物不是真的聖誕禮物   The Christmas gifts were not real Christmas gifts"
 date: 2023-12-27T22:40:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/12/20231225-christmas-gifts-were-not-real.html"
+url: "/2023/12/20231225-christmas-gifts-were-not-real.html"
 ---
 
  又到了聖誕節了。我其實很好奇在台灣「有幫孩子準備聖誕禮物的家長」的比例到底有多少。

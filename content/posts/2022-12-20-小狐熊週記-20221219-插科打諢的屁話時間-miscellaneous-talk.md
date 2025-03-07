@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20221219 插科打諢的屁話時間 Miscellaneous Talk"
 date: 2022-12-20T22:56:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/12/20221219-miscellaneous-talk.html"
+url: "/2022/12/20221219-miscellaneous-talk.html"
 ---
 
 在週一到週五的早上，只要小狐熊沒有鬧脾氣的話，始於起床、終於入校，這段早晨時光就是我跟小狐熊插科打諢的屁話時間。

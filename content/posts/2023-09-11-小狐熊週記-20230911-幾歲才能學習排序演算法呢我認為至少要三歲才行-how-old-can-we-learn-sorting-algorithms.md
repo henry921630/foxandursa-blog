@@ -2,7 +2,7 @@
 title: " [小狐熊週記] 20230911 幾歲才能學習排序演算法呢？我認為至少要三歲才行！ How old can we learn sorting algorithms? "
 date: 2023-09-11T23:41:00+0800
 draft: false
-url: "https://www.foxandursa.com/2023/09/20230911-how-old-can-we-learn-sorting.html"
+url: "/2023/09/20230911-how-old-can-we-learn-sorting.html"
 ---
 
 之前有提到我跟小狐熊出門，身上常常會帶一副撲克牌，作為 3C 育兒的折衷替代品。

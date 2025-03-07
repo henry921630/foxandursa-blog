@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20240108  莫以戰術上的勤奮，來掩蓋戰略上的懶惰。 Don't use tactical diligence to cover up strategic laziness."
 date: 2024-01-08T23:22:00+0800
 draft: false
-url: "https://www.foxandursa.com/2024/01/20240108-dont-use-tactical-diligence-to.html"
+url: "/2024/01/20240108-dont-use-tactical-diligence-to.html"
 ---
 
 小狐熊晚上常常在就寢時間，熄了燈卻不睡覺，在房間大聲嬉鬧。

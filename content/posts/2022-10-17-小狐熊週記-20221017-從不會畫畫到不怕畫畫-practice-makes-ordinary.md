@@ -2,7 +2,7 @@
 title: "[小狐熊週記] 20221017 從不會畫畫到不怕畫畫 Practice Makes Ordinary"
 date: 2022-10-17T21:41:00+0800
 draft: false
-url: "https://www.foxandursa.com/2022/10/20221017-practice-makes-ordinary.html"
+url: "/2022/10/20221017-practice-makes-ordinary.html"
 ---
 
  禮拜六早上七點半，我還躺在床上半夢半醒之間，小熊跑來我床邊說「爸爸我們不是要畫畫嗎？」嗯？……我想起來了，昨天晚上我確實是跟小狐熊說「隔天再來畫畫吧！」「記得明天叫我起床的時候要提醒我說我們要來畫畫哦！」
