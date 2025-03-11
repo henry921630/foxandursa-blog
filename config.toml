@@ -10,12 +10,28 @@ theme = 'PaperMod'
 [params]
   # 首頁配置
   [params.homeInfoParams]
-    Title = "小狐熊部落格"
+    Title = "小狐熊的奇妙世界"
     Content = """
-      歡迎來到小狐熊的部落格！
+      歡迎來到小狐熊的部落格！這裡是記錄育兒、生活哲學與美學體驗的小天地。
 
-      - 這裡分享育兒、生活和其他有趣的內容
+      - 🧸 分享育兒日常與親子互動的點滴感悟
+      - 🧩 探索積木創作與動手實作的無限可能
+      - 🎨 追求美學教育與純粹的學習樂趣
+      - 📚 記錄好玩有趣的童書與玩具推薦
+      - 💭 思考人生、哲學與教養的深度話題
+
+      加入我們，一起在小狐熊的週記中探索成長的奇妙旅程！
     """
+
+  # 啟用搜索功能
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
 
   # 社群圖示
   [[params.socialIcons]]
@@ -53,7 +69,7 @@ theme = 'PaperMod'
   [[menu.main]]
     identifier = "categories"
     name = "分類"
-    url = "/categories/"
+    url = "/categories/"我
     weight = 20
     
   [[menu.main]]
@@ -63,7 +79,17 @@ theme = 'PaperMod'
     weight = 30
     
   [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 35
+    
+  [[menu.main]]
     identifier = "subscribe"
     name = "訂閱電子報"
     url = "/p/email.html"
     weight = 40
+
+# 啟用搜索頁面
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
